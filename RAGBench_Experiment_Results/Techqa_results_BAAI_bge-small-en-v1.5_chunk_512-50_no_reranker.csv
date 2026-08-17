@@ -1,0 +1,248 @@
+index,question,answer,top_retrieval_score,pred_relevance,pred_utilization,pred_completeness,pred_adherence,gt_relevance,gt_utilization,gt_completeness,gt_adherence
+0,"Using cobol copybooks Sometimes, there will be errors/fields missing in typetree, while importing cobol copybooks. Is there any format for copybooks(specifically to be used in wtx), that we need to follow? ",I cannot answer this question based on the provided context.,0.8258516788482666,0.0,0.0,0.0,0.0,0.01171875,0.01171875,1.0,0.0
+1,Is WebSphere Transformation Extender (WTX) supported for IBM Integration Bus V10? When will WebSphere Transformation Extender (WTX) be supported for IBM Integration Bus V10?,I cannot answer this question based on the provided context.,0.8756482601165771,0.0,0.0,0.0,0.0,0.02702702702702703,0.02702702702702703,1.0,1.0
+2,Want to find out if Microsoft Edge is supported with ICC? Want to find out Microsoft Edge is supported with ICC? ,Microsoft Edge is supported starting with IBM Content Collector 4.0.1 Fix Pack 2.,0.772354245185852,0.5,0.3333,0.6667,1.0,0.0026595744680851063,0.0013297872340425532,0.5,1.0
+3,What IBM Business Process Manager version is affected by the Apache Commons FileUpload vulnerability CVE-2016-1000031? What IBM Business Process Manager version is affected by the Apache Commons FileUpload vulnerability CVE-2016-1000031? ,I cannot answer this question based on the provided context.,0.8825452327728271,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+4,"Error while installing SpSS modeler trial version I have downloaded the SPSS modeller trial version (18.1) (64 bit) and trying to install the same. I get the following error 1152: Error extracting modelerClient64.msi to the temporary location
+","Based on Document 3, the cause of an 1152 error during extraction of Modeler self-extracting executable is:
+
+When an IBM SPSS compressed image is launched, files compressed within it are extracted to the temporary location assigned to the signed in user. The possibility of these files downloaded improperly exists. You can use a tool such as MD5 to verify the file content or simply attempt downloading a second time and test.",0.8357917070388794,0.1071,0.0357,0.3333,1.0,0.08333333333333333,0.046296296296296294,0.5555555555555556,1.0
+5,Where can I find more details about WMB Fix Pack 8.0.0.5? Where can find more information about WebSphere Message Broker (WMB) Fix Pack 8.0.0.5?,I cannot answer this question based on the provided context.,0.8508266806602478,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+6,"How to resolve the StaleConnectionException in WebSphere Application Server? I see this exception in WebSphere Application Server J2c and RRA traces:
+
+WSRdbManagedC > preTestConnection Entry WSRdbManagedConnectionImpl@51a507f2 query: SELECT 1 FROM DUAL WSRdbManagedC 3 Exception java.sql.SQLException: ORA-02396: exceeded maximum idle time, please connect again DSRA0010E: SQL State = 61000, Error Code = 2,396 at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:440) at 
+...
+Entry java.sql.SQLException: ORA-01012: not logged on ..... OracleDataSto < findMappingClass return Exit class com.ibm.websphere.ce.cm.StaleConnectionException",I cannot answer this question based on the provided context.,0.8655387759208679,0.0833,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+7,"How do I resolve a WSVR0605W hung thread issue in the WebSphere MQ Resource Adapter? The following WebSphere MQ Resource Adapter hung thread can prevent an application server from starting...
+
+WSVR0605W: Thread ""WMQJCAResourceAdapter : 6"" (0000001b) has been active for 698530 milliseconds and may be hung. There is 1 thread(s) in total in the server that may be hung. at java.lang.Object.wait(Native Method) at java.lang.Object.wait(Object.java:167) at com.ibm.ejs.container.MessageEndpointFactoryImpl.createEndpoint(MessageEndpointFactoryImpl.java:498) at com.ibm.mq.connector.inbound.WorkImpl.run(WorkImpl.java:149)","To resolve the WSVR0605W hung thread issue in the WebSphere MQ Resource Adapter, apply APAR IV24821 to the IBM WebSphere MQ server. 
+
+IV24821 is included in the following versions of IBM WebSphere MQ:
+- IBM WebSphere MQ V7.0.1.10 and later
+- IBM WebSphere MQ V7.1.0.3 and later
+- IBM WebSphere MQ V7.5.0.1 and later
+- IBM WebSphere MQ V8
+
+Additionally, apply the following fix packs to resolve the issue:
+- WebSphere MQ Fix Pack 7.0.1.9
+- WebSphere MQ Fix Pack 7.1.0.2
+
+These versions of WMQ are shipped with WebSphere Application Server Fix Pack in 8.5.0.2, 8.0.0.5, and 7.0.0.27.",0.8277634382247925,0.2727,0.2727,1.0,1.0,0.014634146341463415,0.014634146341463415,1.0,0.0
+8,"I need to transfer my SPSS 24 licence to a new computer I need to transfer my SPSS 24 license to a new machine. I have only used my activation code on one computer so far, and that computer was found to be defective which has led me to get a new computer. I was able to download SPSS 24 Gradpack onto the new computer, but every time I put in the activation code, the program gives me an error message saying that I am not allowed to generate any new licenses.",I cannot answer this question based on the provided context.,0.7942359447479248,0.0,0.0,0.0,0.0,0.05426356589147287,0.05426356589147287,1.0,1.0
+9,"How can I export a private key from DataPower Gateway Appliance? 
+
+How can I export a private key from DataPower Gateway appliance?
+
+","To export a private key from DataPower Gateway Appliance, use the crypto-export command.",0.8471207618713379,0.0714,0.0714,1.0,1.0,0.0627177700348432,0.0627177700348432,1.0,1.0
+10,"When should I use conversation sharing in DataPower MQ queue managers? MQ version 7.0 introduced a new feature, conversation sharing. Are there any special values on DataPower when configuring conversation sharing?","Based on the provided context, I will answer the question.
+
+When should I use conversation sharing in DataPower MQ queue managers? MQ version 7.0 introduced a new feature, conversation sharing. Are there any special values on DataPower when configuring conversation sharing?
+
+According to Document 4, the default setting of sharing conversations (SHARECNV) value is zero in DataPower mq-qm object. However, Document 4 also states that the sharing conversations value is negotiated between MQ server and DataPower and the lower value takes effect.
+
+Document 5 suggests using a value of 10 or less in Sharing Conversations attribute of the mq-qm object for firmware releases 7.5.0.x, 7.5.1.x and later.
+
+Document 3 mentions that using case #2 will benefit the mq-qm object when mixed message sizes are used by the same mq-qm object.
+
+Document 1 provides three use cases for configuring Sharing Conversations in DataPower mq-qm object.",0.8744958639144897,0.7,0.5,0.7143,1.0,0.018691588785046728,0.018691588785046728,1.0,1.0
+11,"Help with Security Bulletin: IBM WebSphere MQ Administration command could cause denial of service (CVE-2016-8971) I need to understand details regarding Security Bulletin: IBM WebSphere MQ Administration command could cause denial of service (CVE-2016-8971). Where can I find this information?
+",I cannot answer this question based on the provided context.,0.8738179206848145,0.0,0.0,0.0,1.0,0.07011070110701106,0.05904059040590406,0.8421052631578947,1.0
+12,Help with Security Bulletin: IIB is affected by Node.js security vulnerability ( CVE-2017-1000381 and CVE-2017-11499 ) I need to understand details regarding Security Bulletin: IBM Integration Bus is affected by Node.js security vulnerability ( CVE-2017-1000381 and CVE-2017-11499 ). Where can I find this information? ,I cannot answer this question based on the provided context.,0.863646388053894,0.0,0.0,0.0,1.0,0.028037383177570093,0.0,0.0,0.0
+13,"Help with Security Bulletin: Multiple vulnerabilities in IBM Java SDK affect IBM OS Images for Red Hat Linux Systems and AIX (CVE-2015-0410 and CVE-2014-6593) I need to understand details regarding ""Security Bulletin: Multiple vulnerabilities in IBM Java SDK affect IBM OS Images for Red Hat Linux Systems and AIX (CVE-2015-0410 and CVE-2014-6593)"" Where can I find this information? ",I cannot answer this question based on the provided context.,0.9208985567092896,0.0,0.0,0.0,0.0,0.085,0.065,0.7647058823529411,1.0
+14,"Error #2070 I purchased the SPSS grad pack and put one of the licenses on one computer and another on this one. This computer crashed and I was forced to reformat the hard drive. Subsequently, I lost SPSS in the process.  I am now reinstalling with the single user copy option.
+
+The error it gave me now when I attempted to authorize the program with the original authorization number I received was:
+
+Authorization in progress ... (removed) Authorization failed.: You are not allowed to generate any more new licenses. End Of Transaction. All permitted authorizations for the provided authorization code(s) have been utilized. No additional authorizations are permitted on this code. If you think this is an error, please contact IBM Corp. Customer Service at spssls@us.ibm.com ( http://www-01.ibm.com/software/analytics/spss ) with your product and purchase details. Click ""Finish"" to exit.","Based on the provided context, the problem is that you are trying to use an authorization code to license an SPSS product, but it is not valid for the correct product or version. 
+
+To correct this problem, you can try the following:
+
+1. Check that you have entered the correct authorization code.
+2. If you have multiple authorization codes, check that you have entered the correct one.
+3. Click ""Next"" to license authorization via e-mail.
+
+Alternatively, you can contact IBM SPSS Customer Service via email at spsscs@us.ibm.com or via phone at 800-521-1337, and provide them with the license authorization code used to license your IBM SPSS product.",0.8659447431564331,0.7273,0.3636,0.5,0.8333,0.0738255033557047,0.03355704697986577,0.45454545454545453,1.0
+15,Where I can get ITNM 4.2.0.1 GA version download details with Part number?. How to download and install IBM Tivoli Network Manager IP Edition Version 4.2 Fix Pack 1 (GA) using the Passport Advantage Web site?. ,I cannot answer this question based on the provided context.,0.8810670375823975,0.1429,0.0,0.0,0.0,0.06103286384976526,0.023474178403755867,0.38461538461538464,0.0
+16,"Help with Action required for IIB H.E.V9 and WMB H.E. V8 for security vulnerabilities in Red Hat Linux 
+
+I need to understand details regarding Action required for IBM Integration Bus Hypervisor Edition V9.0 and WebSphere Message Broker Hypervisor Edition V8.0 for security vulnerabilities in Red Hat Linux.
+
+Where can I find this information?","You can find the Action required information in the ""Remediation"" section of the documents. 
+
+Specifically, it is mentioned in the following documents:
+
+- Document 1: No remediation information is provided.
+- Document 2: No remediation information is provided.
+- Document 3: Remediation information is provided.
+- Document 4: No remediation information is provided.
+- Document 5: No remediation information is provided.
+
+To find the remediation information, you need to refer to Document 3.",0.9255733489990234,0.6,0.0,0.0,0.3333,0.1875,0.046875,0.25,0.0
+17,Help with Security Bulletin: IBM WebSphere MQ is affected by a privilege escalation vulnerability (CVE-2017-1612) I need to understand details regarding Security Bulletin: IBM WebSphere MQ is affected by a privilege escalation vulnerability (CVE-2017-1612).,I cannot answer this question based on the provided context.,0.9074216485023499,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+18,"What's the procedure to drop an user in Cognos Disclosure Management? 
+
+O.S AIX 7.1
+
+Cognos Disclosure Management 10.2.4 What's the procedure to drop an user in Cognos Disclosure Management",I cannot answer this question based on the provided context.,0.7043492794036865,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+19,"What things are important to consider when installing a fix pack for IIB running on a multi-instance environment? I am planning to apply a fix pack to my current version of IBM Integration Bus (IIB) using multi-instance brokers and I am looking for any important information regarding the process.
+
+For example:
+
+ 
+
+- installation and verification tasks
+ 
+
+- is it possible to back out this fix pack in case there are issues
+ 
+
+- any specific tasks for multi instance configuration",I cannot answer this question based on the provided context.,0.7787139415740967,0.0,0.0,0.0,0.0,0.036734693877551024,0.0,0.0,0.0
+20,Event Dashboard breaks with Japanese filter Event Dashboard breaks when a filter is created with the browser language set to Japanese. This issue occurs in WebGUI 8.1 Fix Pack 11. ,I cannot answer this question based on the provided context.,0.720798909664154,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+21,"Help with Security Bulletin: Security Vulnerability in IBM PureApplication System. (CVE-2015-1920) I need to understand details regarding ""Security Bulletin: Security Vulnerability in IBM PureApplication System (CVE-2015-1920)"". Where can I find this information? ",I cannot answer this question based on the provided context.,0.8653237819671631,0.25,0.0,0.0,0.0,0.14450867052023122,0.13872832369942195,0.96,1.0
+22,"Launching IBM Rational Software Architect application results in Error: Java was started but returned exit code = -1 At times when you launch Rational Software Architect (RSA) application, you might encounter the following error: Error: Java was started but returned exit code = -1 ",I cannot answer this question based on the provided context.,0.8506083488464355,0.0,0.0,0.0,1.0,0.0196078431372549,0.006535947712418301,0.0,0.0
+23,"Cognos Analytics - Images not displayed in PDF/Excel, working in HTML I've just completed an upgrade to Cognos Analytics 11.0.3. When running existing reports in HTML, the images are displayed but when I try to run them in PDF/Excel they are not. ","Based on the provided context, I cannot answer this question as there is no specific information about Cognos Analytics 11.0.3 and the issue with images not displaying in PDF/Excel.",0.8266148567199707,0.1538,0.0,0.0,0.0,0.17058823529411765,0.047058823529411764,0.2413793103448276,1.0
+24,"Executing a scenario suite with a Scenario Service Provider (SSP) over HTTPS How to configure the machines hosting the WebSphere Operational Decision Management modules with regard to HTTPS when executing scenario suites ?
+How to avoid the exception below while requesting from Decision Center the execution of a scenario suite on Scenario Service Provider (SSP) over HTTPS ?
+ Exception caught while contacting RES ilog.rules.res.util.http.IlrConnectionException: IO error when contacting ""/res/repositoryService""
+ ....
+ Caused by: javax.net.ssl.SSLHandshakeException: com.ibm.jsse2.util.g: PKIX path building failed: java.security.cert.CertPathBuilderException: unable to find valid certification path to requested target",I cannot answer this question based on the provided context.,0.8077298402786255,0.0,0.0,0.0,0.0,0.02570694087403599,0.0,0.0,0.0
+25,How to install Packaging utility? How to install Packaging utility? ,"To install Packaging Utility, you can follow these steps:
+
+1. If Installation Manager is installed, use the Packaging Utility repository on www.ibm.com to install or update Packaging Utility without downloading files.
+2. If Installation Manager is not installed, you must download the Packaging Utility files.
+3. For Mac OS X operating system, you can install Packaging Utility in wizard mode or console mode.
+4. You can also use imcl commands to install or update Packaging Utility.
+
+For specific details, refer to the following documents:
+
+- Document 2: Installing Packaging Utility without downloading files
+- Document 4: Installation instructions
+- Document 5: Installing Packaging Utility on Mac OS X operating system",0.8217736482620239,0.375,0.3125,0.8333,0.8,0.07009345794392523,0.04672897196261682,0.5333333333333333,1.0
+26,Is there a support's guide to the CORBA Probes? Where can I download the support's guide to the IBM CORBA probes?,"Yes, there is a support's guide to the IBM CORBA probes. 
+
+You can download the support's guide to the IBM CORBA probes from the following link: 
+http://www-01.ibm.com/support/docview.wss?uid=swg21614208",0.8619765043258667,0.2,0.2,1.0,1.0,0.06382978723404255,0.010638297872340425,0.16666666666666666,1.0
+27,What versions of WSAS using Oracle 12c are supported? What versions of WSAS using Oracle 12c are supported?,I cannot answer this question based on the provided context.,0.7814906239509583,0.0,0.0,0.0,0.0,0.02564102564102564,0.004273504273504274,0.16666666666666666,1.0
+28,"TEP to TEPS communication issues with different Java versions Recent Java updates have caused connection problems when logging into the TEPS via the TEP client (Browser or Java Web Start). Is there an updated list of known issues?
+",I cannot answer this question based on the provided context.,0.7832701206207275,0.75,0.0,0.0,0.0,0.13930348258706468,0.05472636815920398,0.39285714285714285,1.0
+29,"How can I configure J2EE Tomcat DC to run as Windows Service? I'm trying to configure ITCAM J2EE v7.1.1 Tomcat DC to run as a Windows Service but it fails. Is this type of configuration supported? If so, what is the right procedure to do that?
+",I cannot answer this question based on the provided context.,0.8636396527290344,0.0,0.0,0.0,0.0,0.034220532319391636,0.034220532319391636,1.0,0.0
+30,"Why is the file db2jcc.jar missing after an upgrade to BPM V8.5.7 CF2016.12? After upgrading to IBM Business Process Manager V8.5.7 Cumulative Fix 2016.12, I have encountered several JDBC related exceptions during my process application development. It seems that the file db2jcc.jar was removed during the installation of the cumulative fix pack. What happened? ",I cannot answer this question based on the provided context.,0.7943106889724731,0.0,0.0,0.0,0.0,0.04610951008645533,0.025936599423631124,0.5625,0.0
+31,"Traffic across domains seems unexpected 
+
+I have two Multi-Protocol Gateways (MPGWs) configured, each in their own domain:
+
+     Domain A
+     MPGW_A
+     FSH_A (1.2.3.4:443)
+     Domain B
+     MPGW_B
+     FSH_B (0.0.0.0:443)
+
+The FSH_B is disabled, thus MPGW_B cannot take traffic. However, if I modify the config for MPGW_B (i.e. just change a Stylesheet parameter) the traffic goes to MPGW_B somehow. How is this happening? FSH_B is still disabled.",I cannot answer this question based on the provided context.,0.7573922872543335,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+32,"Why do I get error when I try to save application in APMUI? I am using APMUI 7.7 IF1. Following error occurs when I try to save application:
+
+ 
+
+CTGAZ0001E: The application cannot be saved because the application repository is not available.
+messages.log of scr server shows that it is listening at 17310 port:
+
+ 
+
+A CWWKT0016I: Web application available (default_host): http://apmhost:17310/SCRCLUSTER_SCR_oslc.html
+But apmui is referring to this URL with port 8080 (APM_UI.log):
+
+ 
+
+http://apmhost:8080/SCRCLUSTER_SCR_oslc/scr/gettime",I cannot answer this question based on the provided context.,0.7224997282028198,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+33,"Help with Security Bulletin: IBM WebSphere MQ and IBM MQ Managed File Transfer is affected by an undefined behavior because of insecure file permission vulnerability (CVE-2017-1699) I need to understand details regarding Security Bulletin: IBM WebSphere MQ and IBM MQ Managed File Transfer is affected by an undefined behavior because of insecure file permission vulnerability (CVE-2017-1699). Where can I find this information?
+",I cannot answer this question based on the provided context.,0.9067007899284363,0.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0
+34,"Additional steps to apply fix pack to Decision Center 
+
+We are upgrading ODM 8.8.1 Decision Center to the latest 8.8.1.3.
+
+Are there any additional steps to apply the fixpack to Decision Center after we install the fixpack with Installation Manager?",I cannot answer this question based on the provided context.,0.7893921136856079,0.0,0.0,0.0,0.0,0.02830188679245283,0.025157232704402517,0.8888888888888888,0.0
+35,"Installing fixpacks with Installation Manager - when did it change from using updateInstaller,  starting in which version of WebSphere I was using updateInstaller to install fixpacks, and there was a separate fixpack for WebSphere and separate for the JDK, independent of each other. Now I understand that with Installation Manager there is a single package containing both the WebSphere App server fixpack as well as the JDK. When did this occur, starting with which version of WebSphere ? ","Starting with WebSphere Application Server V8.0, there is a single install package that contains updates for both WebSphere Application Server and Java SDK.",0.8632829189300537,0.1,0.1,1.0,1.0,0.009868421052631578,0.003289473684210526,0.3333333333333333,1.0
+36,Help with Security Bulletin: Multiple vulnerabilities in IBM Java Runtime affect WMB and IIB I need to understand details regarding Security Bulletin: Multiple vulnerabilities in IBM Java Runtime affect WebSphere Message Broker and IBM Integration Bus. Where can I find this information? ,"You can find the information about the Security Bulletin: Multiple vulnerabilities in IBM Java Runtime affect WebSphere Message Broker and IBM Integration Bus at the following URL: 
+http://www.ibm.com/support/docview.wss?uid=swg21994213",0.9307339787483215,0.375,0.125,0.3333,1.0,0.24206349206349206,0.0,0.0,0.0
+37,"Port number error starting 9.0 Launcher 
+
+I'm attempting to start up v9.0 for the first time with one .msl file on a Windows server and get the following error.  I also have v8.4 on this server and it starts fine.  I do not have v8.4 running when I attempt to start v9.0.
+
+Cannot recognize if the system RecordChangeSystem.msl; has started. Reason: Server is unable to get the status of the system on port number 6,002.
+
+I have the port range set to 7000/8000.  Why am I seeing this?  ",I cannot answer this question based on the provided context.,0.7473799586296082,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+38,"DFHAP1203I and DFHSR0601 with 0C1 in EQA10OSM after upgrading to CICS TS 5.2 Why is my CICS region failing during startup with message DFHAP1203I followed by DFHSR0601 after I upgraded to CICS Transaction Server for z/OS (CICS TS) V5.2? A system dump shows an abend 0C1 occurring in the Debug Tool for z/OS module EQA10OSM. 
+I receive the following messages:
+DFHAP1203I Language Environment is being initialized. 
+DFHSR0601 Program interrupt occurred with system task III in control. ",I cannot answer this question based on the provided context.,0.8719205856323242,0.0,0.0,0.0,0.0,0.013761467889908258,0.009174311926605505,0.3333333333333333,1.0
+39,"We got a NullPointerException when bootstrapping the object store or accessing Site Preferences/Access Role on WorkplaceXT 
+
+After logging into FileNet Workplace XT, a java.lang.NullPointerException error is logged when bootstrapping the object store or when accessing Site Preferences/Access Role.
+
+Here's the error stack,
+
+Error Stack Trace extracted from the J2EE Application Server error log:
+
+java.lang.NullPointerException
+
+at org.apache.jasper.runtime.JspWriterImpl.write(JspWriterImpl.java:421)
+
+at com.filenet.wcm.apps.server.ui.info.prefs.PrefAccessRolesInfoPage.renderRoleMembers(PrefAccessRolesInfoPage.java:254)
+
+at com.filenet.wcm.apps.server.ui.info.prefs.PrefAccessRolesInfoPage.renderRole(PrefAccessRolesInfoPage.java:220)
+
+at com.filenet.wcm.apps.server.ui.info.prefs.PrefBootstrapInfoPage.renderAdminRole(PrefBootstrapInfoPage.java:131)
+
+at com.filenet.wcm.apps.server.ui.info.prefs.PrefBootstrapInfoPage.render(PrefBootstrapInfoPage.java:303)","Based on the provided context, the cause of the NullPointerException error when bootstrapping the object store or accessing Site Preferences/Access Role on Workplace XT is:
+
+""This behavior may occur if an invalid entry has been specified in the User Display Name Attribute or Group Display Name Attribute setting in the Directory Services Configuration in FileNet Enterprise Manager (FEM).""",0.9539426565170288,0.4167,0.0833,0.2,1.0,0.06363636363636363,0.01818181818181818,0.2857142857142857,1.0
+40,Does the BPM internal Document Store work with IBM DB2 pureScale? I use IBM DB2 pureScale with my BPM installation. During startup of the server and initialization of the internal document store I see hanging threads in the systemOut.log and the process will not finish. How can this be solved? ,I cannot answer this question based on the provided context.,0.7524737119674683,0.0,0.0,0.0,1.0,0.11797752808988764,0.03932584269662921,0.3333333333333333,1.0
+41,Help with Security Bulletin: WMB and IIB are affected by 'Information Disclosure' vulnerability I need to understand details regarding Security Bulletin: WebSphere Message Broker and IBM Integration Bus are affected by 'Information Disclosure' vulnerability. Where can I find this information? ,I cannot answer this question based on the provided context.,0.8942251205444336,0.6667,0.0,0.0,0.0,0.14,0.0,0.0,0.0
+42,Is transient user support available for SAML integration with WebSphere Portal 8.0? I am looking to leverage the SAML TAI provided by WebSphere Application Server for my WebSphere Portal 8.0 environment. Is transient user support available so that I do not have to maintain a local account in my Portal user registry for every external user which is verified and trusted by my identity provider? ,I cannot answer this question based on the provided context.,0.9081225395202637,0.2,0.0,0.0,0.0,0.0071174377224199285,0.0035587188612099642,0.5,0.0
+43,Java.io.NotSerializableException in WAS We are experiencing the Java.io.NotSerializableException exception. I see this error: WTRN0047E:java.io.NotSerializableException. Anyone experienced this before?,"Based on the provided context, I can answer your question.
+
+The Java.io.NotSerializableException exception is caused by an object that does not implement the java.io.Serializable or java.io.Externalizable interface. 
+
+In most instances, this object is the attribute that was put into the session object; however, sometimes this object is referenced by an attribute of the session object.
+
+You can refer to Document 4 for a specific example of this exception: ""java.io.NotSerializableException: COM.ibm.db2.jdbc.app.DB2Connection"".
+
+Document 5 mentions that the notification code has been updated to not retry sending the message if it results in a java.io.NotSerializableException exception. The fix for this APAR is targeted for inclusion in fixpacks 6.0.2.15 and 6.1.0.3.",0.8446553349494934,0.4444,0.3333,0.5,1.0,0.05489260143198091,0.021479713603818614,0.391304347826087,1.0
+44,"Why does my JVMSERVER remain in a ""BEING DISABLED""  state? When I try to disable a JVMSERVER it becomes hung and remains in a ""BEING DISABLED"" state. This also occurs when I shut down the CICS region. The CICS region ultimately has to be cancelled. ",I cannot answer this question based on the provided context.,0.7913795113563538,0.0,0.0,0.0,0.0,0.03636363636363636,0.02727272727272727,0.75,1.0
+45,"Help with Action required for IIB H.E. V9 & WMB H.E. V8 for security vulnerabilities in Red Hat Linux 
+
+I need to understand details regarding Action required for IBM Integration Bus Hypervisor Edition V9.0 and WebSphere Message Broker Hypervisor Edition V8.0 for security vulnerabilities in Red Hat Linux.
+
+This is related to CVEID:
+CVE-2017-14739
+CVE-2017-14741
+CVE-2017-14989
+CVE-2017-15015
+CVE-2017-15016
+CVE-2017-15017
+CVE-2017-15032
+CVE-2017-15033
+
+Where can I find this information?",I cannot answer this question based on the provided context.,0.9343419075012207,0.0,0.0,0.0,1.0,0.6176470588235294,0.14705882352941177,0.23809523809523808,1.0
+46,"Help with Security Bulletin: TLS padding vulnerability affects IBM PureApplication System (CVE-2014-8730) I need to understand details regarding ""Security Bulletin: TLS padding vulnerability affects IBM PureApplication System (CVE-2014-8730)"". Where can I find this information? ",I cannot answer this question based on the provided context.,0.8801681399345398,0.2857,0.0,0.0,0.0,0.11428571428571428,0.11428571428571428,1.0,1.0
+47,"What are the files created in $TEMP on startup of IIB or WMB? What are the 0 byte files created in $TEMP/.com_ibm_tools_attach directory upon IBM Integration Bus (IIB) / WebSphere Message Broker (WMB) startup?
+For example: The following files are created on UNIX / Windows if $TEMP is /tmp:
+/tmp/.com_ibm_tools_attach/_attachlock
+/tmp/.com_ibm_tools_attach/_master
+/tmp/.com_ibm_tools_attach/_notifier",I cannot answer this question based on the provided context.,0.7644662261009216,0.0,0.0,0.0,0.0,0.04918032786885246,0.0,0.0,0.0
+48,Does IBM DataPower Gateway Appliance support the HTTP CONNECT method? Does IBM DataPower Gateway Appliance support the HTTP CONNECT method for SSL proxy requests? ,"Based on the provided context, I can answer the question as follows:
+
+Yes, IBM DataPower Gateway Appliance supports the HTTP CONNECT method. 
+
+Document 2 states that ""Datapower service (i.e MPGW, WSP, etc) is configured to connect to backend server through an HTTP Proxy server (as configured in the Proxy Policy of the user agent) using the HTTP CONNECT method.""
+
+Additionally, Document 3 mentions that ""Many common forward proxy servers expect requests in different formats depending on if they are proxying non-SSL or SSL requests"" and provides an example of a non-SSL request, but it does not explicitly state that DataPower supports the CONNECT method for SSL proxy requests. However, Document 2 implies that DataPower does support the CONNECT method for SSL proxy requests, as it mentions that DataPower might issue an SSL error if the CONNECT request receives a 5xx response.
+
+However, the answer to the second part of the question is also yes, IBM DataPower Gateway Appliance supports the HTTP CONNECT method for SSL proxy requests.
+
+Document 2 states that ""Datapower service (i.e MPGW, WSP, etc) is configured to connect to backend server through an HTTP Proxy server (as configured in the Proxy Policy of the user agent) using the HTTP CONNECT method."" and Document 3 implies that DataPower supports the CONNECT method for SSL proxy requests.",0.8448846936225891,0.3333,0.1667,0.5,0.6667,0.00816326530612245,0.012244897959183673,0.5,1.0
+49,"Datacap on Citrix  Hi All,
+
+Can we operate Datacap thin clients on citrix?
+",I cannot answer this question based on the provided context.,0.8837361335754395,0.2727,0.0,0.0,0.0,0.05714285714285714,0.0380952380952381,0.6666666666666666,1.0
