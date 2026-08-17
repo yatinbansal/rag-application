@@ -1,0 +1,156 @@
+index,question,answer,top_score,judge_failed,pred_relevance,pred_utilization,pred_completeness,pred_adherence,gt_relevance,gt_utilization,gt_completeness,gt_adherence
+0,what is the rate of return in cadence design systems inc . of an investment from 2010 to 2011?,"To calculate the rate of return, I'll use the data from Document 2.
+
+The initial investment on 1/2/2010 was $100.00, and the value on 1/1/2011 was $137.90.
+
+Rate of return = (Value on 1/1/2011 - Initial investment) / Initial investment
+= ($137.90 - $100.00) / $100.00
+= 0.378 or 37.8%
+
+So, the rate o",5.074666500091553,False,0.0952,0.1429,1.0,1.0,0.1111111111111111,0.1111111111111111,1.0,1.0
+1,what is the ratio of the total american personnel to us airways personnel,"To calculate the ratio, we need to extract the total number of personnel for American and US Airways from the provided tables.
+
+From Document 1, the total personnel for American is 61600, and for US Airways is 32800.
+
+The ratio of American personnel to US Airways personnel is:
+
+61600 (American) / 32",2.55688214302063,False,0.1304,0.1304,1.0,1.0,0.04,0.04,1.0,1.0
+2,what portion of total assets acquired of anios are intangible assets?,"To calculate the portion of total assets acquired that are intangible assets, we need to know the total consideration paid for Anios and the value of intangible assets acquired.
+
+From Document 1, we know the total consideration paid for Anios was $798.3 million.
+
+From Document 7, we know that the in",0.030362887308001518,False,0.3158,0.3158,1.0,0.25,0.1,0.05,0.5,1.0
+3,what is the five year total return on the goldman sachs group inc.?,"To calculate the five-year total return on the Goldman Sachs Group, Inc., we need to look at the data provided in Document 1.
+
+The table in Document 1 shows the cumulative total returns in dollars of the firm's common stock, the S&P 500 index, and the S&P 500 Financials index for Goldman Sachs' last",3.237051248550415,False,0.2857,0.2857,1.0,1.0,0.1111111111111111,0.1111111111111111,1.0,0.0
+4,what is the percentage change in the total carrying amount of goodwill from 2016 to 2017?,"To calculate the percentage change in the total carrying amount of goodwill from 2016 to 2017, we need to extract the relevant numbers from the documents.
+
+From Document 5, we can see that the carrying amount of goodwill as of December 2016 was $3.67 billion, and as of December 2017 was also $3.67 b",4.770918369293213,False,0.0588,0.0588,1.0,1.0,0.05,0.05,1.0,1.0
+5,what is the net change in net revenue during 2015 for entergy corporation?,"To find the net change in net revenue during 2015 for Entergy Corporation, we need to look at the relevant documents.
+
+From Document 2, we see that there was an annual net rate increase of $16 million, effective February 2015, as a result of the MPSC order in the June 2014 rate case.
+
+However, we al",5.210010528564453,False,0.2667,0.3333,1.0,1.0,0.07142857142857142,0.07142857142857142,1.0,1.0
+6,what was the 2015 total return for the peer group?,"According to Document 6, the 2015 total return for the peer group is 126.23.",4.639169216156006,False,0.0385,0.0385,1.0,0.0,0.5,0.16666666666666666,0.3333333333333333,1.0
+7,what was the profit margin of printing papers in 2005,"To calculate the profit margin of printing papers in 2005, we need to extract the relevant data from the financial data table in Document 5.
+
+The revenue for printing papers in 2005 is $592 million (from the table).
+
+The profit from continuing operations for the total company in 2005 is $992 million",8.271947860717773,False,0.12,0.12,1.0,0.6667,0.023809523809523808,0.023809523809523808,1.0,1.0
+8,what was the percent change in the aggregate net asset values of the direct lending collateral pools between 2007 and 20,"To calculate the percent change in the aggregate net asset values of the direct lending collateral pools between 2007 and 2008, we need to extract the relevant data from the table.
+
+From Document 3, the table shows the aggregate net asset values of the direct lending collateral pools for 2007 and 20",5.983837604522705,False,0.25,0.25,1.0,1.0,0.15384615384615385,0.07692307692307693,0.5,1.0
+9,what was the percentage cumulative total shareholder return on disca common stock for the five year period ended decembe,"Unfortunately, I cannot find any specific information about the percentage cumulative total shareholder return on DISCA common stock for the five-year period ended December 31, 2014, in the provided context. The context only mentions the performance of various companies and indices, but not specific",6.085378646850586,False,0.0,0.0,0.0,0.0,0.07692307692307693,0.07692307692307693,1.0,1.0
+10,what was the percentage change in the cash dividends paid per common share from 2006 to 2007,"To calculate the percentage change in the cash dividends paid per common share from 2006 to 2007, we need to extract the relevant data from Document 2.
+
+From Document 2, we have:
+
+| Year | Cash Dividends Paid per Common Share |
+| --- | --- |
+| 2007 | $1.11 |
+| 2006 | $1.08 |
+
+To calculate the percen",8.764383316040039,False,0.087,0.087,1.0,1.0,0.034482758620689655,0.034482758620689655,1.0,1.0
+11,what is the after-tax share-based compensation cost in 2010?,"To find the after-tax share-based compensation cost in 2010, we need to subtract the income tax benefit from the share-based compensation cost.
+
+From Document 1, the share-based compensation cost in 2010 is $18.1 million, and the income tax benefit is $-6.3 million (which is a credit, so we'll consi",6.575504302978516,False,0.2,0.2,1.0,1.0,0.04,0.04,1.0,1.0
+12,"what was the average for ""other"" loans held in 2012 and 2011?","To calculate the average for ""other"" loans held in 2012 and 2011, we need to extract the relevant data from the table.
+
+From the table, we can see that the ""other"" loans are represented by the ""loans at fair value"" and ""derivative receivables"" categories.
+
+For 2012:
+Loans at fair value: $2,555 milli",5.690023422241211,False,0.1364,0.1364,1.0,1.0,0.034482758620689655,0.034482758620689655,1.0,1.0
+13,what is the percentage change in total financial liabilities at fair value in 2012?,"To calculate the percentage change in total financial liabilities at fair value in 2012, we need to extract the relevant data from Document 2.
+
+From Document 2, we have:
+
+* Total financial liabilities at fair value as of December 2012: $377,677 million
+* Total financial liabilities at fair value as ",5.055806636810303,False,0.1053,0.1053,1.0,1.0,0.06666666666666667,0.06666666666666667,1.0,1.0
+14,"what are the net revenues in investment management in 2016 , in billions?","According to Document 1, net revenues in investment management were $6.22 billion for 2017, 7% higher than 2016. To find the net revenues in investment management in 2016, we can use the following formula:
+
+Net Revenues in 2016 = Net Revenues in 2017 / (1 + 0.07)
+
+Net Revenues in 2016 = $6.22 billio",8.695470809936523,False,0.0833,0.0833,1.0,1.0,0.02857142857142857,0.02857142857142857,1.0,1.0
+15,was was the total amount spent on stock repurchases in december 2012?,"To find the total amount spent on stock repurchases in December 2012, we need to look at Document 2, which states that the company repurchased 619,314 shares of common stock for an aggregate of approximately $46.0 million, including commissions and fees.
+
+So, the total amount spent on stock repurcha",8.529594421386719,False,0.0714,0.0714,1.0,1.0,0.09090909090909091,0.0,0.0,0.0
+16,what was the net change in tax positions in 2014,"To calculate the net change in tax positions in 2014, we need to look at the ""balance at January 1"" and ""balance at December 31"" columns in Document 2 and Document 5.
+
+From Document 2:
+- Balance at January 1, 2014: $177,947
+- Balance at December 31, 2014: $195,237
+
+From Document 5:
+- Balance at Janu",3.8242485523223877,False,0.3077,0.3077,1.0,1.0,0.038461538461538464,0.038461538461538464,1.0,1.0
+17,what portion of the total noncancelable future lease commitments are due in fiscal year of 2019?,"To calculate the portion of the total noncancelable future lease commitments due in fiscal year 2019, we need to extract the relevant data from the provided context.
+
+From Document 1, we see that the total noncancelable future lease commitments are $559.3 million. We also see that the operating leas",4.061861991882324,False,0.25,0.25,1.0,1.0,0.1,0.05,0.5,1.0
+18,"in millions for 2012 and 2011 , what was the maximum tier 2 capital?","To find the maximum Tier 2 capital, we need to look at Document 3, which states that Tier 2 capital consists of preferred stock not qualifying as Tier 1, subordinated long-term debt, and other instruments qualifying as Tier 2, and the aggregate allowance for credit losses up to a certain percentage ",6.347005367279053,False,0.2857,0.2857,1.0,1.0,0.038461538461538464,0.038461538461538464,1.0,1.0
+19,what portion of the total restricted units will vest in 2011?,"Based on the context, we can determine that the total restricted stock units granted to Mr. Denault in January 2008 was 24,000 (Document 4). 
+
+However, we need to find the vesting date for 2011. According to Document 1, the vesting date for 2011 is January 25, 2011. 
+
+Since the vesting of units is b",2.067431926727295,False,0.55,0.55,1.0,0.5,0.037037037037037035,0.037037037037037035,1.0,1.0
+20,what was the percent change in number of shares purchased by employees between 2010 and 2011,"To calculate the percent change in the number of shares purchased by employees between 2010 and 2011, we need to extract the relevant data from the context.
+
+From Document 1, we have the following data:
+
+* 2010: 2.7 million shares purchased
+* 2011: 2.2 million shares purchased
+
+To calculate the perc",6.486034393310547,False,0.1053,0.0526,0.5,1.0,0.03571428571428571,0.03571428571428571,1.0,1.0
+21,what was the percent of the total gains that was from the sales of land,"To calculate the percentage of total gains from the sales of land, we need to extract the relevant data from the tables.
+
+From Document 2, we have the following data:
+
+| Year | Gain on sales of depreciable properties | Gain on land sales | Impairment adjustment | Total |
+| --- | --- | --- | --- | --",1.6207027435302734,False,0.6522,0.6522,1.0,1.0,0.03571428571428571,0.03571428571428571,1.0,1.0
+22,what was the percentual decrease observed in the liabilities for accrued interest and penalties during 2012 and 2013?,"To calculate the percentual decrease in liabilities for accrued interest and penalties, we need to extract the relevant numbers from the context.
+
+In 2012, liabilities for accrued interest and penalties were $1.2 billion as of December 31, 2012.
+In 2013, liabilities for accrued interest and penaltie",4.837413787841797,False,0.1333,0.1333,1.0,1.0,0.03225806451612903,0.03225806451612903,1.0,1.0
+23,what portion of the total estimated purchase price is paid in cash?,"To find the portion of the total estimated purchase price paid in cash, we need to look at the ""cash portion of consideration"" from Document 1 and the ""total estimated purchase price"" from the same document.
+
+From Document 1:
+- Cash portion of consideration: $ 2094800
+- Total estimated purchase pric",5.4026288986206055,False,0.15,0.2,1.0,1.0,0.15789473684210525,0.05263157894736842,0.3333333333333333,1.0
+24,as a result of the sales of certain non-core towers and other assets what was the percent of the change in the recorded ,"To calculate the percent of change in the recorded net losses from 2007 to 2008, we need to first find the net losses for both years.
+
+From Document 4, the net loss for the year ended December 31, 2008 is $10.5 million, and from Document 7, the net loss for the year ended December 31, 2007 is $9.2 m",5.760817527770996,False,0.2,0.3,1.0,0.0,0.12121212121212122,0.06060606060606061,0.5,0.0
+25,what was the percentage rent increase between 2007 and 2008?,"To calculate the percentage rent increase between 2007 and 2008, we need to extract the relevant numbers from the documents.
+
+From Document 2, we can see that the net sales for 2007 and 2008 are:
+
+2007: $19.0 billion
+2008: $12.1 billion
+
+To calculate the percentage decrease, we can use the formula:
+",3.1762022972106934,False,0.1765,0.1765,1.0,1.0,0.03225806451612903,0.03225806451612903,1.0,1.0
+26,what was the percentage change in the the research and development costs from 2014 to 2015,"To calculate the percentage change in research and development costs from 2014 to 2015, we need to first find the difference in costs and then divide by the original cost, and finally multiply by 100.
+
+Research and development costs for 2014: $86 million
+Research and development costs for 2015: $119",5.267816543579102,False,0.0667,0.0667,1.0,1.0,0.03571428571428571,0.03571428571428571,1.0,1.0
+27,what was the lowest effective tax rate in the three year period?,"To find the lowest effective tax rate in the three-year period, I'll extract the effective tax rates from the documents:
+
+* 2015: 24.0% (Document 1)
+* 2014: 27.1% (Document 1)
+* 2013: 28.1% (Document 2)
+* 2012: 29.0% (Document 2 and 4)
+* 2011: 27.8% (Document 4)
+* 2016: Not explicitly stated, but im",0.0866875946521759,False,0.3,0.3,1.0,1.0,0.08333333333333333,0.08333333333333333,1.0,1.0
+28,what was the percentage growth in the dividend yield from 2007 to 2008,"To calculate the percentage growth in the dividend yield from 2007 to 2008, we need to extract the relevant data from the provided documents.
+
+From Document 1, we have the following data:
+
+* 2007: 23.5%
+* 2008: 27.3%
+
+To calculate the percentage growth, we use the formula:
+
+((New Value - Old Value) ",4.913386344909668,False,0.4231,0.4231,1.0,1.0,0.06666666666666667,0.06666666666666667,1.0,0.0
+29,in 2018 what was the percent of the cib markets net interest income as part of the managed interest income,"To calculate the percentage of CIB markets net interest income as part of the managed interest income in 2018, we need to extract the relevant numbers from the context.
+
+From Document 2, we have the following numbers for 2018:
+
+* Net interest income 2013 managed basis (a) (b): $56,687
+* CIB markets ",7.2523369789123535,False,0.5,0.5,1.0,0.8333,0.06060606060606061,0.06060606060606061,1.0,1.0

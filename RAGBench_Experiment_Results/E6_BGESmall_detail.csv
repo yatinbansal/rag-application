@@ -1,0 +1,103 @@
+index,question,answer,top_score,judge_failed,pred_relevance,pred_utilization,pred_completeness,pred_adherence,gt_relevance,gt_utilization,gt_completeness,gt_adherence
+0,I want to  enter into Ambient mode. How can I do that?,"To enter Ambient Mode, press the button.",5.718347549438477,False,0.0238,0.0238,1.0,1.0,0.02040816326530612,0.04081632653061224,1.0,1.0
+1,Where do I find signal information ?,"According to Document 1: 
+You can find digital channel signal info and strength by going to Settings > Support > Self Diagnosis > Signal Information.",-0.7140029668807983,False,0.1667,0.1667,1.0,1.0,0.1111111111111111,0.1111111111111111,1.0,1.0
+2,How can I view the channels that are serached by auto program function and How can I view first five favorite channel?,"Based on the provided documents, here are the answers:
+
+**How can I view the channels that are searched by the auto program function?**
+
+According to Document 1, you can view the channels that the TV found during the Auto Program channel search by pressing the right directional button when viewing t",4.0806074142456055,False,0.1714,0.1714,1.0,1.0,0.42105263157894735,0.15789473684210525,0.375,1.0
+3,Can I configure Tint?,"Yes, you can configure Tint. 
+Settings Picture Expert Settings Try Now Tint (G/R) Try Now",-0.4985063076019287,False,0.0167,0.0167,1.0,1.0,0.03225806451612903,0.03225806451612903,1.0,1.0
+4,How do I fix the missing/wrong color issue ?,"According to Document 1, to fix the missing or wrong color issue, try the following:
+
+1. Run Start Picture Test (Settings > Support > Self Diagnosis > Start Picture Test)
+2. If the test results indicate that the problem is not caused by the TV, check the video input connectors and ensure they are co",0.43353772163391113,False,0.094,0.094,1.0,1.0,0.08928571428571429,0.17857142857142858,0.4,1.0
+5,How do I fix blurring issues on TV screen?,"According to Document 2, to fix blurring issues on the TV screen, you should use the Auto Motion Plus function. 
+
+Settings > Picture Expert > Auto Motion Plus Settings",4.297235488891602,False,0.0192,0.0192,1.0,1.0,0.03571428571428571,0.03571428571428571,1.0,1.0
+6,What is the use of universal guide?,"According to Document 1, the Universal Guide is an app that allows you to ""search for and enjoy various content such as TV shows, dramas, movies, and music in one place.""",7.4189558029174805,False,0.1053,0.0526,0.5,1.0,0.2777777777777778,0.16666666666666666,0.6,1.0
+7,What is the feature of Bixby guide?,"According to Document 3, the feature of Bixby guide is that you can view it by pressing the button on your Samsung Smart Remote once, and then pressing the Select button. This will display a tutorial on using Bixby.",3.1053853034973145,False,0.1579,0.1579,1.0,1.0,0.13333333333333333,0.13333333333333333,1.0,1.0
+8,How to launch the last used app automatically?,"To launch the last used app automatically, go to Settings > General > Smart Features > Autorun Last App. You can also turn this function on or off by pressing the Select button at the current menu.",9.97323989868164,False,0.0444,0.0444,1.0,1.0,0.06818181818181818,0.045454545454545456,0.6666666666666666,1.0
+9,Where do I find the list of my favorite channels?,"According to Document 1, to view and select channels on Favorites lists, you need to:
+
+1. Press the right directional button on your remote control.
+2. Select Favorites.
+3. Select the desired list among the five favorites lists on the screen.
+
+The channels in the selected favorites list will then ap",5.534337043762207,False,0.3333,0.3333,1.0,1.0,0.4166666666666667,0.3333333333333333,0.8,1.0
+10, I want to setup a  beautiful screens. How can I do that?,"According to Document 1, to set up a beautiful screen in Ambient Mode, follow these steps:
+
+1. Press the button to enter Ambient Mode.
+2. Use the left or right directional buttons to move the focus to the ""Decor"" category at the bottom of the screen.
+3. Press the Select button to select the ""Decor"" ",0.6889334917068481,False,0.0519,0.0519,1.0,1.0,0.03278688524590164,0.04918032786885246,1.0,1.0
+11,How do I record using time Timeshift function?,"According to Document 1, to record using the Timeshift function, follow these steps:
+
+1. Press the button while watching the program.
+2. Select the Timeshift function from the menu.
+3. The Timeshift function will start, and you can then select Schedule Recording from the program info window to sched",8.327136039733887,False,0.1905,0.1905,1.0,1.0,0.2,0.1,0.5,1.0
+12,My IP auto setting failed. How to configure it?,"According to [Document 1], to configure the IP auto setting, follow these steps:
+
+1. Go to **IP Settings** (Settings > General > Network > Network Status > IP Settings)
+2. Make sure that the DHCP server is enabled on the router.
+3. Unplug the router and plug it back in.
+4. Reset the router if requir",5.430795192718506,False,0.0196,0.0196,1.0,1.0,0.11538461538461539,0.15384615384615385,0.6666666666666666,1.0
+13,How can I connect my mobile device to the TV?,"To connect your mobile device to the TV, follow these steps:
+
+1. Turn on the TV.
+2. Start the SmartThings app on your mobile device.
+3. Tap ""Add Device"" on the dashboard of the SmartThings app.
+4. Connectable TVs are searched for.
+5. From the search results, select the model of your TV.
+6. Enter the",9.34630012512207,False,0.4231,0.3846,0.9091,1.0,0.39285714285714285,0.35714285714285715,0.9090909090909091,1.0
+14,How to configure Contrast and Sharpness?,"According to Document 1, to configure Contrast and Sharpness, follow these steps:
+
+1. Go to Settings > Picture Expert Settings.
+2. Try Now > Contrast.
+3. Adjust the Contrast setting to your desired level.
+4. Try Now > Sharpness.
+5. Adjust the Sharpness setting to your desired level.
+
+Note: You can a",3.8598368167877197,False,0.0702,0.0702,1.0,1.0,0.07692307692307693,0.07692307692307693,1.0,1.0
+15,What are the steps to reset network?,"To reset the network, follow these steps:
+
+1. Go to Settings > General > Network > Reset.
+2. Select ""Try Now"" to restore the network settings to the factory default.
+
+(From Document 1)",3.3348724842071533,False,0.037,0.037,1.0,1.0,0.037037037037037035,0.037037037037037035,1.0,0.0
+16,How do I view a list of mobile devices registered to the TV?,"According to Document 1: ""Device List View, edit, or remove a list of mobile devices registered to the TV.""",6.645750522613525,False,0.0164,0.0164,1.0,1.0,0.1111111111111111,0.07407407407407407,0.6666666666666666,1.0
+17,I get this error 'some files cannot be played'. How do I fix this?,"According to Document 2, the problem ""The content may not be played depending on the encoding method or file format."" To resolve this, you can try the following:
+
+1. Check the encoding method or file format of the file.
+2. If the file is on a device connected to the TV via your network, try using a ",4.9752607345581055,False,0.1515,0.1515,1.0,1.0,0.21052631578947367,0.15789473684210525,0.25,0.0
+18,How do I set scheduled viewing time?,"To set scheduled viewing time, follow these steps:
+
+1. Set the TV's clock (Settings > General > System Manager > Time > Clock).
+2. On the Guide screen, select a program you would like to view, and then press and hold the Select button.
+3. Select Schedule Viewing on the pop-up menu that appears.
+4. A",9.404099464416504,False,0.75,0.75,1.0,1.0,0.35,0.15,0.42857142857142855,1.0
+19,Can I scan TV for malicious code ?,"According to Document 1, you can scan the TV and connected storage for malicious code by going to Settings > General System Manager > Smart Security > Scan.",9.1359224319458,False,0.2308,0.1538,0.6667,1.0,0.7692307692307693,0.5384615384615384,0.7,1.0
+20,What is decor and how to set wallpaper of the Ambient Mode screen?,"According to Document 1, Decor is a category that allows you to select beautiful screens. To set a picture stored in your mobile device as the wallpaper of the Ambient Mode screen, follow these steps:
+
+1. Use the SmartThings app on your mobile device to save photos from your mobile device to the TV.",5.952801704406738,False,0.119,0.2857,1.0,1.0,0.12244897959183673,0.12244897959183673,1.0,1.0
+21,Can I request service I am having problem with the TV?,"Yes, you can request service when you encounter a problem with the TV. To do so, go to Settings > Support > Request Support > Try Now. Select the item matching the problem that you encountered, and then select Request Now Schedule Appointment Send. Your service request will be registered. The Samsun",8.289209365844727,False,0.2105,0.2105,1.0,1.0,0.5625,0.375,0.6666666666666666,1.0
+22,From where I can see program information?,"According to Document 1, you can see an overview of each channel's program lineup by viewing the ""Guide screen"".
+
+Additionally, according to Document 2, you can also see program information by pressing the Select button while watching TV, which will display the ""Program Info window"".
+
+And, according",1.3570791482925415,False,0.1667,0.1667,1.0,1.0,0.6111111111111112,0.5555555555555556,0.9090909090909091,1.0
+23,What is source and how to serch data for channels?,"According to Document 2, the source for channel data is the Auto Program channel search, which is accessed by pressing the right directional button when viewing the Channel List screen.",-4.2534074783325195,False,0.0909,0.0909,1.0,1.0,0.21739130434782608,0.21739130434782608,0.8,1.0
+24,How can I change Antenna type?,"To change the antenna type, you need to move the focus to Air Cable and then press the Select button. (Document 1, Air Cable section)
+
+Steps:
+
+1. Press the right directional button on your remote control.
+2. Move the focus to Air Cable.
+3. Press the Select button.",-4.121248722076416,False,0.25,0.125,0.5,1.0,0.1111111111111111,0.2222222222222222,1.0,0.0
+25,Can I turn on the TV with a mobile device?,"Yes, you can turn on the TV with a mobile device when both of them are connected to the same network. (Document 1: ""Power On with Mobile You can turn on the TV with your mobile device when both of them are connected to the same network."")",10.054096221923828,False,0.1111,0.0556,0.5,1.0,0.13636363636363635,0.13636363636363635,1.0,1.0
+26,What is the function of 'Learn TV Remote'?,"According to Document 1, the function of 'Learn TV Remote' is to help individuals with a visual impairment learn the positions of the buttons on the remote control. When activated, the TV will tell the name of the button when pressed, and to return to the previous screen, press the button twice, and",7.81926155090332,False,0.16,0.16,1.0,1.0,0.04878048780487805,0.04878048780487805,1.0,1.0
+27,Can I select Ambient Light Detection ?,"According to Document 1, Ambient Light Detection can be tried by going to Settings > General > Eco Solution > Try Now.",5.391477584838867,False,0.0267,0.04,1.0,1.0,0.08333333333333333,0.020833333333333332,0.25,1.0
+28,How do I fix odd sound of speaker?,"According to Document 1, if the speakers are making an odd sound, you should ""Check the volume control of your TV, and then check the volume control of the external device (cable box or satellite box, DVD, Blu-ray, etc.) connected to your TV.""
+
+Additionally, Document 2 suggests that an unusual noise",2.9460651874542236,False,0.0556,0.0556,1.0,1.0,0.5714285714285714,0.25,0.4375,1.0
+29,How can I search for the channels?,"According to Document 1, you can display the channels that the TV found during the Auto Program channel search by pressing the right directional button when viewing the Channel List screen, and then selecting ""All Channels"".",4.593424320220947,False,0.0857,0.0571,0.6667,1.0,0.5454545454545454,0.30303030303030304,0.5555555555555556,1.0

@@ -1,0 +1,153 @@
+index,question,answer,top_score,judge_failed,pred_relevance,pred_utilization,pred_completeness,pred_adherence,gt_relevance,gt_utilization,gt_completeness,gt_adherence
+0,"Which university did one of the key figures in the American documentary film, released in 2015, directed by Malcolm Ingr","To answer this question, I will identify the relevant documents, extract the specific fact from each document, and combine them into one clear answer.
+
+Relevant documents:
+- Document 5
+- Document 1
+
+Extracted facts:
+- Document 5: Jason Collins played college basketball for Stanford University.
+- Doc",4.509585380554199,False,0.1154,0.1154,1.0,0.0,0.17857142857142858,0.10714285714285714,0.6,0.0
+1,Were both Léopold Eyharts and Ulrich Walter a General in the French Air Force? ,"To answer the question, I need to extract relevant facts from the documents.
+
+Document 1 states that Léopold Eyharts is a Brigadier General in the French Air Force.
+
+Document 2 does not mention Ulrich Walter's rank or affiliation with the French Air Force.
+
+However, Document 3 mentions the French Ai",6.779435157775879,False,0.0588,0.0588,1.0,1.0,0.18181818181818182,0.18181818181818182,1.0,1.0
+2,"Which music group has the most members, DC Talk, or Manchester Orchestra?","To answer this question, we need to identify the number of members in each group.
+
+For DC Talk, we can refer to Document 4, which states that the group was formed by Toby McKeehan, Michael Tait, and Kevin Max Smith. There is no mention of additional members.
+
+For Manchester Orchestra, we can refer t",3.45344614982605,False,0.0926,0.0926,1.0,1.0,0.16666666666666666,0.16666666666666666,1.0,1.0
+3,"Eddie Jemison had a role in the television series ""IZombie"", which premiered on what date?","To answer the question, I need to extract the relevant information from the documents.
+
+Document 2 and Document 3 both mention that the television series ""iZombie"" (stylized as ""iZOMBiE"") premiered on March 17, 2015.
+
+Document 1 mentions that Eddie Jemison had a role in the television series ""iZombi",6.164684295654297,False,0.0833,0.0833,1.0,1.0,0.2727272727272727,0.18181818181818182,0.6666666666666666,1.0
+4,"Consider the band formed in 2015 by JYP Entertainment through the reality show ""Sixteen"". How many tracks are on the rei","To answer the question, I will refer to the relevant documents.
+
+[Document 2] states that ""Twicecoaster: Lane 2"" is the reissue of Twice's third extended play (EP), and it contains 13 tracks.
+
+Therefore, the answer is:
+There are 13 tracks on the reissue of Twice's third album.",4.876913070678711,False,0.0833,0.0556,0.6667,1.0,0.3076923076923077,0.23076923076923078,0.75,1.0
+5,What three categories does income get levied under the Parliament of Australia's tax code?,"To answer this question, I will extract the relevant fact from each of the provided documents.
+
+[Document 1] states that income tax in Australia is levied upon three sources of income for individual taxpayers: ""personal earnings"" (such as salary and wages), ""business income"" and ""capital gains"".
+
+Th",6.908683776855469,False,0.0256,0.0256,1.0,1.0,0.07142857142857142,0.07142857142857142,1.0,1.0
+6,"What city did the author of ""Portraits and Prayers"" choose to live in after moving to France?","To answer this question, I will identify the relevant documents and extract the necessary information.
+
+Document 2 mentions that Gertrude Stein moved to Paris in 1903 and made France her home for the remainder of her life. This suggests that she chose to live in Paris after moving to France.
+
+Theref",-4.025021076202393,False,0.0455,0.0227,0.5,1.0,0.2222222222222222,0.05555555555555555,0.25,1.0
+7,Are both Frank Lloyd and Olivier Assayas American film directors?,"To answer this question, I will extract relevant facts from the documents.
+
+Document 1 states that Olivier Assayas (born 25 January 1955) is a French film director, screenwriter and film critic.
+
+Document 2 states that Frank William George Lloyd (2 February 1886 – 10 August 1960) was an American fil",5.283782005310059,False,0.1,0.1,1.0,1.0,0.16666666666666666,0.16666666666666666,1.0,1.0
+8,"Which founder of Alcatraz East was born on March 31, 1956?",I cannot answer this question as none of the provided documents contain information about the birthdate of the founder of Alcatraz East.,0.24404814839363098,False,0.0233,0.0233,1.0,1.0,0.2,0.1,0.5,1.0
+9,"Which magazine was first published earlier, The Chronicle of Philanthropy or Skeptic?","To answer this question, I need to identify the relevant documents and extract the specific fact from each document.
+
+Document 1 mentions that Skeptic was first published in the spring of 1992.
+
+Document 2 mentions that The Chronicle of Philanthropy was founded in 1988.
+
+Since 1992 is later than 198",4.91156005859375,False,0.0645,0.0645,1.0,0.5,0.13333333333333333,0.13333333333333333,1.0,1.0
+10,How many personnel does the Navy that had Gilliam-class atttack transports have on active duty?,"To answer this question, we need to identify the relevant documents and extract the necessary information.
+
+Document 2 mentions the USS ""Carlisle"" (APA-69), a Gilliam-class attack transport that served with the US Navy during World War II. However, it does not provide information about the number of",1.1781349182128906,False,0.037,0.037,1.0,1.0,0.05555555555555555,0.05555555555555555,1.0,1.0
+11,Are Billy and Barak both breeds of scenthound? (Barak is also known as a Bosnian Coarse-haired Hound),"To answer this question, I will extract relevant facts from the provided documents.
+
+[Document 1] states that the Bosnian Coarse-haired Hound, also called the Barak, is a hunting dog breed developed in Bosnia, and it is a scenthound.
+
+[Document 3] states that the Billy is a large scenthound originat",6.9138383865356445,False,0.0638,0.0638,1.0,1.0,0.2727272727272727,0.2727272727272727,1.0,1.0
+12,Socialist conferences were held with what countries that opposed the Central Powers in the First World War?,"To answer the question, I will identify the relevant documents, extract the specific facts, and combine them into one clear answer.
+
+Relevant documents:
+[Document 1], [Document 2], [Document 3], and [Document 4]
+
+Extracted facts:
+[Document 1]: The Zimmerwald Conference was held with countries that w",6.460531234741211,False,0.0968,0.129,1.0,0.3333,0.2,0.2,1.0,1.0
+13,What  unincorporated town along the Amargosa River is near the Sarcobatus Flat?,"To answer this question, I will combine facts from multiple documents.
+
+[Document 1] states that Beatty is an unincorporated town along the Amargosa River in Nye County in the U.S. state of Nevada.
+
+[Document 3] describes Sarcobatus Flat as a closed valley in western Nye County, Nevada.
+
+Since Beatt",3.962780714035034,False,0.0769,0.0769,1.0,1.0,0.23076923076923078,0.07692307692307693,0.3333333333333333,1.0
+14,What Manchester United and Portuguese national winger scored a goal in the 2009 FA Community Shield?,"To answer this question, I will extract the relevant information from the documents.
+
+From Document 2:
+The 2009 FA Community Shield was contested by Manchester United and Chelsea, with the goals coming from Nani and Wayne Rooney for Manchester United, and from Ricardo Carvalho and Frank Lampard for ",5.7720746994018555,False,0.0769,0.0769,1.0,1.0,0.25,0.16666666666666666,0.6666666666666666,1.0
+15,"Manchester, New Hampshire is a part of the Northeast megalopolis which included what other major cities?","To answer this question, I will extract relevant facts from multiple documents.
+
+[Document 2] states that the Northeast megalopolis includes the major cities of Boston, Providence, Hartford, New York City, Philadelphia, Wilmington, Baltimore, and Washington, D.C., along with their metropolitan areas",6.8287248611450195,False,0.0588,0.0784,0.6667,1.0,0.22727272727272727,0.045454545454545456,0.2,1.0
+16,Telos was an album by a band who formed in what city?,"To answer the question, I need to extract relevant facts from the documents.
+
+From Document 2, I can see that Telos is an album by the band Forevermore, and it was released on July 22, 2014.
+
+From Document 1, I can see that Forevermore is an American Christian metal band from Indianapolis, Indiana, ",2.8371341228485107,False,0.0571,0.0857,1.0,1.0,0.11538461538461539,0.07692307692307693,0.6666666666666666,1.0
+17,"Which item spanned farther distances regarding sales, Interact Home Computer or Sord M5?","To answer this question, we need to identify which documents contain relevant information about the sales distance of the Interact Home Computer and the Sord M5.
+
+Document 2 mentions that the Interact Model One Home Computer was sold through mail order sales by the liquidator ""Protecto Enterprizes"" ",0.859103798866272,False,0.1739,0.1087,0.625,0.4,0.25,0.20833333333333334,0.8333333333333334,0.0
+18,What national team has the brother of Arturas Javtokas been a member of since 2004?,"To answer this question, I will extract the relevant fact from Document 2.
+
+[Document 2]:
+Robertas Javtokas (born March 20, 1980) is a Lithuanian professional basketball executive and former player. He currently serves as sports director of Žalgiris Kaunas. Standing at 2.11 m , he played the center ",6.431034088134766,False,0.0339,0.0169,0.5,1.0,0.16666666666666666,0.1111111111111111,0.6666666666666666,1.0
+19,What does Age of Chance and Vector share in common? ,"To find the commonality between Age of Chance and Vector, I will analyze the provided documents.
+
+Document 1 describes Age of Chance, a British alternative rock-dance crossover band from Leeds, England.
+
+Document 3 describes Vector, a rock band formed in Sacramento, California.
+
+The commonality betw",-1.212584137916565,False,0.0435,0.0652,1.0,0.4,0.15384615384615385,0.15384615384615385,1.0,1.0
+20,The On Tour Forever album gave Blues Traveler the opportunity to display what musical trademark?,"To answer the question, I will identify the relevant documents, extract the specific fact from each document, and combine them into one clear answer.
+
+The relevant documents are:
+
+* Document 1: On Tour Forever is a live EP album released by Blues Traveler in 1992.
+* Document 2: The album was release",4.109604835510254,False,0.0513,0.1026,1.0,0.75,0.5,0.14285714285714285,0.2857142857142857,0.0
+21,Phillip Pullman's book set in a parallel universe featuring a character named Lyra Belacqua was put into audio in what y,"To answer this question, I will identify the relevant documents and extract the specific fact from each document.
+
+The relevant documents are:
+- Document 1: This document mentions the book ""Northern Lights"" by Philip Pullman, but it does not mention the audio version.
+- Document 3: This document men",7.143002986907959,False,0.0938,0.0625,0.6667,1.0,0.25,0.25,1.0,1.0
+22,The founder of the Ali Akbar College of Music was known for his virtuosity in what musical instrument?,"Based on the documents, the relevant documents are:
+
+* Document 1: ""Trained as a classical musician and instrumentalist by his father, Allauddin Khan, Khan also composed several classical ""ragas"" and film scores.""
+* Document 2: ""The Ali Akbar College of Music (AACM) is the name of three schools foun",7.588653087615967,False,0.0541,0.0811,1.0,1.0,0.3333333333333333,0.06666666666666667,0.2,1.0
+23,What film did the mother of Karan Kapoor star in in 1970?,"To answer this question, I will extract relevant facts from the provided documents.
+
+[Document 2] mentions that Karan Kapoor's mother is Jennifer Kendal, and [Document 1] mentions that Jennifer Kendal was an English actress and the founder of the Prithvi Theatre.
+
+[Document 1] also mentions that Jen",3.242664337158203,False,0.0465,0.0698,1.0,1.0,0.2222222222222222,0.1111111111111111,0.5,1.0
+24,"Who is the director of Hollywood film ""7th Heaven"" (1927), Jerry Belson or  Frank Borzage?","To answer this question, I will extract the relevant fact from each document.
+
+**Document 2** is the most relevant to the question, as it specifically mentions the film ""7th Heaven"" (1927) and its director.
+
+According to Document 2, the director of the 1927 film ""7th Heaven"" is **Frank Borzage**.
+
+T",9.297082901000977,False,0.1154,0.0385,0.3333,1.0,0.3333333333333333,0.2222222222222222,0.6666666666666666,1.0
+25,"Which plane has seen more combat, the Northrop F-15 Reporter or the Northrop P-61 Black Widow?","To answer this question, we need to identify the relevant documents and extract the specific facts.
+
+Document 1 mentions the Northrop F-15 Reporter, but it does not provide information about its combat history.
+
+Document 2 mentions the Northrop P-61 Black Widow, but it does not provide information a",6.615253448486328,True,0.0,0.0,0.0,0.0,0.6,0.4,0.6666666666666666,0.0
+26,To what team was the 2014 NBA Rookie of the Year traded in October 2016? ,"To answer this question, I will extract relevant facts from the provided documents.
+
+[Document 2] states that Michael Carter-Williams was the 2014 NBA Rookie of the Year.
+
+[Document 1] states that the Chicago Bulls traded Tony Snell to the Milwaukee Bucks for Michael Carter-Williams on October 17, 2",6.035714149475098,False,0.0357,0.0357,1.0,0.6667,0.21428571428571427,0.14285714285714285,0.6666666666666666,1.0
+27,"Grammy winner for song of the year, also put out a 1971 album by the Carpenters, but what song did he win an Academy Awa","To answer this question, I need to identify the relevant documents and extract the necessary information.
+
+From Document 2, I can see that Paul Williams won a Grammy for Song of the Year and an Academy Award for Best Original Song for writing the lyrics to the #1 chart-topping ""Evergreen"", the love ",4.152848243713379,False,0.075,0.075,1.0,1.0,0.3333333333333333,0.3333333333333333,1.0,1.0
+28,To which aircraft carrier was the VMF-213 Marine Fighting Squadron assigned to durning World War II?,"To answer the question, I will identify the relevant documents, extract the specific fact, and combine them into one clear answer.
+
+The relevant documents are:
+[Document 1]: Marine Fighting Squadron 213 (VMF-213) was a reserve fighter squadron in the United States Marine Corps.
+[Document 4]: USS ""Es",8.5657958984375,False,0.0294,0.0882,1.0,1.0,0.1111111111111111,0.05555555555555555,0.5,1.0
+29,"When did the tour begin for the album Taylor Swift released on October 22, 2012?","To answer this question, I will refer to the following documents:
+
+* Document 1: This document mentions the release of Taylor Swift's album ""Red"" on October 22, 2012, but does not provide information on the tour.
+* Document 2: This document mentions the start date of the ""Red Tour"" as March 13, 2013",7.755143642425537,False,0.0333,0.05,1.0,1.0,0.21052631578947367,0.05263157894736842,0.25,1.0

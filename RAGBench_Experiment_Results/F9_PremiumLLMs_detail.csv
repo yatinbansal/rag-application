@@ -1,0 +1,85 @@
+index,question,answer,top_score,judge_failed,pred_relevance,pred_utilization,pred_completeness,pred_adherence,gt_relevance,gt_utilization,gt_completeness,gt_adherence
+0,what is the rate of return in cadence design systems inc . of an investment from 2010 to 2011?,"The rate of return for Cadence Design Systems Inc. from 2010 to 2011 is 37.9%.
+
+**Calculation:**
+Formula: ((Ending Value - Beginning Value) / Beginning Value) * 100
+((137.90 - 100.00) / 100.00) * 100 = 37.9%
+
+**Data used:**
+*   Value on 1/2/2010: 100.00
+*   Value on 1/1/2011: 137.90",5.074666500091553,False,0.0435,0.0435,1.0,1.0,0.1111111111111111,0.1111111111111111,1.0,1.0
+1,what is the ratio of the total american personnel to us airways personnel,"The ratio of total American personnel to US Airways personnel is 1.88.
+
+Formula: 61,600 (American total) / 32,800 (US Airways total) = 1.88",2.5568790435791016,False,0.0417,0.0417,1.0,1.0,0.04,0.04,1.0,1.0
+2,what portion of total assets acquired of anios are intangible assets?,"Based on the provided documents:
+
+*   **Total consideration for Anios acquisition:** $798.3 million (Document 2)
+*   **Acquired amortizable intangible assets:** $123 million (Document 1)
+
+**Calculation:**
+(Amortizable Intangible Assets / Total Consideration) * 100
+($123 million / $798.3 million) * 1",1.0428377389907837,False,0.1,0.1,1.0,1.0,0.1,0.05,0.5,1.0
+3,what is the five year total return on the goldman sachs group inc.?,"I cannot answer. While Document 1 mentions a table for the cumulative total returns of Goldman Sachs' common stock over five fiscal year ends, the specific numerical return values are not provided in the context.",3.2370495796203613,False,0.0588,0.0588,1.0,1.0,0.1111111111111111,0.1111111111111111,1.0,0.0
+4,what is the percentage change in the total carrying amount of goodwill from 2016 to 2017?,"Based on the provided documents, the total carrying value of goodwill as of December 31, 2017, was $7.7 billion [Document 1]. However, the context does not provide the total carrying value of goodwill for 2016 (only a specific subset of $3.67 billion related to certain deductions [Document 5]).
+
+Bec",4.770918369293213,False,0.1176,0.1176,1.0,1.0,0.05,0.05,1.0,1.0
+5,what is the net change in net revenue during 2015 for entergy corporation?,I cannot answer. The provided context does not contain the net revenue figures or the net change in net revenue for Entergy Corporation for the year 2015.,5.210010528564453,False,0.0,0.0,0.0,0.0,0.07142857142857142,0.07142857142857142,1.0,1.0
+6,what was the 2015 total return for the peer group?,"I cannot answer. The provided documents describe the assumptions and compositions of various peer groups and performance graphs, but they do not contain the specific numerical total return values for any peer group for the year 2015.",4.6391706466674805,False,0.0,0.0,0.0,0.0,0.5,0.16666666666666666,0.3333333333333333,1.0
+7,what was the profit margin of printing papers in 2005,"To calculate the profit margin for printing papers in 2005, we need the operating profit and net sales for that year.
+
+*   **Operating Profit (2005):** $592 million (from Document 5)
+*   **Net Sales (2005):** Document 1 states that 2006 net sales decreased 3% from 2005. Document 5 provides the 2006 ",8.271947860717773,False,0.12,0.16,1.0,1.0,0.023809523809523808,0.023809523809523808,1.0,1.0
+8,what was the percent change in the aggregate net asset values of the direct lending collateral pools between 2007 and 20,"The aggregate net asset value of the direct lending collateral pools was $150 billion on December 31, 2007, and $85 billion on December 31, 2008.
+
+Formula: (($85 - $150) / $150) * 100 = -43.33%
+
+The percent change was -43.33%.",5.983837604522705,False,0.0417,0.0417,1.0,1.0,0.15384615384615385,0.07692307692307693,0.5,1.0
+9,what was the percentage cumulative total shareholder return on disca common stock for the five year period ended decembe,"I cannot answer. There is no data provided in the context regarding ""disca common stock"" or its cumulative total shareholder return for the period ended December 31, 2014.",6.085378646850586,False,0.0,0.0,0.0,0.0,0.07692307692307693,0.07692307692307693,1.0,1.0
+10,what was the percentage change in the cash dividends paid per common share from 2006 to 2007,"The cash dividends paid per common share were $1.08 in 2006 and $1.11 in 2007 (Document 2).
+
+Formula: ((2007 Value - 2006 Value) / 2006 Value) * 100
+Calculation: (($1.11 - $1.08) / $1.08) * 100 = 2.78%
+
+The percentage change in cash dividends paid per common share from 2006 to 2007 was 2.78%.",8.764383316040039,False,0.0417,0.0417,1.0,1.0,0.034482758620689655,0.034482758620689655,1.0,1.0
+11,what is the after-tax share-based compensation cost in 2010?,"To calculate the after-tax share-based compensation cost for 2010, we use the data from [Document 1]:
+
+*   **Share-based compensation cost (2010):** $18.1 million
+*   **Income tax benefit (2010):** $6.3 million
+
+**Formula:** Share-based compensation cost - Income tax benefit = After-tax cost
+**Calcu",6.575504302978516,False,0.05,0.05,1.0,1.0,0.04,0.04,1.0,1.0
+12,"what was the average for ""other"" loans held in 2012 and 2011?","Based on the financial data table in Document 1, the ""loans held-for-sale"" were $4,406 million in 2012 and $2,524 million in 2011.
+
+**Calculation:**
+Average = (Value 2012 + Value 2011) / 2
+Average = ($4,406 million + $2,524 million) / 2 = $3,465 million
+
+The average for loans held-for-sale in 2012 a",5.690023422241211,False,0.1364,0.1364,1.0,1.0,0.034482758620689655,0.034482758620689655,1.0,1.0
+13,what is the percentage change in total financial liabilities at fair value in 2012?,"To calculate the percentage change in total financial liabilities at fair value for 2012, we use the data from Document 1:
+
+*   Total financial liabilities at fair value (December 2012): $377,677 million
+*   Total financial liabilities at fair value (December 2011): $388,669 million
+
+**Formula:** ((",5.055806636810303,False,0.05,0.05,1.0,1.0,0.06666666666666667,0.06666666666666667,1.0,1.0
+14,"what are the net revenues in investment management in 2016 , in billions?","To calculate the 2016 net revenues in investment management, we use the 2017 net revenue and the growth rate provided in Document 1.
+
+**Formula:** 2016 Revenue = 2017 Revenue / (1 + Growth Rate)
+**Calculation:** $6.22 billion / 1.07 = $5.81 billion
+
+The net revenues in investment management in 2016 ",8.695470809936523,False,0.0435,0.0435,1.0,1.0,0.02857142857142857,0.02857142857142857,1.0,1.0
+15,was was the total amount spent on stock repurchases in december 2012?,"The total amount spent on stock repurchases during the three months ended December 31, 2012, was approximately $46.0 million (Document 2).",8.529592514038086,False,0.0667,0.0667,1.0,1.0,0.09090909090909091,0.0,0.0,0.0
+16,what was the net change in tax positions in 2014,"Based on the provided documents, there are multiple sets of tax position data. Depending on the specific entity or account referenced:
+
+*   **According to Document 2:** The balance at December 31, 2014, was $195,237 and the balance at December 31, 2013, was $177,947.
+    *   Net Change: $195,237 - $",3.998673439025879,False,0.1667,0.1667,1.0,1.0,0.038461538461538464,0.038461538461538464,1.0,1.0
+17,what portion of the total noncancelable future lease commitments are due in fiscal year of 2019?,"The portion of total noncancelable future lease commitments due in fiscal 2019 is 24.7%.
+
+**Calculation:**
+(Fiscal 2019 Operating Leases + Fiscal 2019 Capital Leases) / Total Noncancelable Future Lease Commitments
+($137.4 million + $0.3 million) / $559.3 million = 24.7%",4.061861991882324,False,0.1111,0.1111,1.0,1.0,0.1,0.05,0.5,1.0
+18,"in millions for 2012 and 2011 , what was the maximum tier 2 capital?","As of December 2012, the tier 2 capital was $39 million, and as of December 2011, it was $6 million.",6.347006320953369,False,0.0476,0.0476,1.0,1.0,0.038461538461538464,0.038461538461538464,1.0,1.0
+19,what portion of the total restricted units will vest in 2011?,"Based on Document 1, 8,000 restricted stock units will vest on January 25, 2011.
+
+To calculate the portion of the total units listed in the table:
+Formula: (Units vesting in 2011 / Total units in table) * 100
+Calculation: (8,000 / (8,000 + 8,000 + 8,000)) * 100 = 33.33%",2.067432403564453,False,0.2632,0.1053,0.4,1.0,0.037037037037037035,0.037037037037037035,1.0,1.0

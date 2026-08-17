@@ -1,0 +1,98 @@
+index,question,answer,top_score,judge_failed,pred_relevance,pred_utilization,pred_completeness,pred_adherence,gt_relevance,gt_utilization,gt_completeness,gt_adherence
+0,"Which university did one of the key figures in the American documentary film, released in 2015, directed by Malcolm Ingr","To answer the question, I will extract relevant facts from the provided documents.
+
+Document 4 contains the relevant information about Jason Collins. According to Document 4, Jason Collins played college basketball for Stanford University, where he was an All-American in 2000-01.
+
+Document 1 mention",4.509583950042725,False,0.1212,0.0909,0.75,0.6,0.17857142857142858,0.10714285714285714,0.6,0.0
+1,Were both Léopold Eyharts and Ulrich Walter a General in the French Air Force? ,"To answer the question, I need to extract relevant facts from the documents.
+
+Document 1 states that Léopold Eyharts is a Brigadier General in the French Air Force.
+
+Document 2 does not mention Ulrich Walter's rank or affiliation with the French Air Force.
+
+However, Document 3 mentions the French Ai",6.77943229675293,False,0.0588,0.0588,1.0,1.0,0.18181818181818182,0.18181818181818182,1.0,1.0
+2,"Which music group has the most members, DC Talk, or Manchester Orchestra?","To answer this question, I will identify the relevant documents, extract the specific fact from each relevant document, and combine them into one clear answer.
+
+[Document 1] mentions DC Talk, but does not mention the number of members.
+[Document 2] mentions Manchester Orchestra, but does not mention",3.4534449577331543,False,0.0638,0.0638,0.6667,1.0,0.16666666666666666,0.16666666666666666,1.0,1.0
+3,"Eddie Jemison had a role in the television series ""IZombie"", which premiered on what date?","To answer this question, I will extract the relevant fact from the relevant documents.
+
+Document 2 and Document 3 both contain relevant facts about the television series ""iZombie"". Specifically, they mention that the series premiered on March 17, 2015.
+
+Therefore, the answer is:
+
+The television seri",6.164683818817139,False,0.0833,0.0833,1.0,1.0,0.2727272727272727,0.18181818181818182,0.6666666666666666,1.0
+4,"Consider the band formed in 2015 by JYP Entertainment through the reality show ""Sixteen"". How many tracks are on the rei","To answer the question, I need to identify the relevant documents and extract the necessary information.
+
+Document 2 contains the relevant information: ""Twicecoaster: Lane 2 (stylized as TWICEcoaster : LANE 2) is the reissue of South Korean girl group Twice's third extended play (EP) """". It was rele",4.876913070678711,False,0.0857,0.0571,0.6667,1.0,0.3076923076923077,0.23076923076923078,0.75,1.0
+5,What three categories does income get levied under the Parliament of Australia's tax code?,"To answer this question, I will extract the relevant fact from each of the provided documents.
+
+[Document 1] states that income tax in Australia is levied upon three sources of income for individual taxpayers: ""personal earnings"" (such as salary and wages), ""business income"" and ""capital gains"".
+
+Th",6.908683776855469,False,0.0256,0.0256,1.0,1.0,0.07142857142857142,0.07142857142857142,1.0,1.0
+6,"What city did the author of ""Portraits and Prayers"" choose to live in after moving to France?","To answer this question, I will extract relevant information from the documents.
+
+Document 2 states that Gertrude Stein moved to Paris in 1903 and made France her home for the remainder of her life.
+
+Document 1 mentions that Stein hosted a Paris salon, where she exhibited Picasso's paintings and wro",-4.025018692016602,False,0.0465,0.093,0.5,1.0,0.2222222222222222,0.05555555555555555,0.25,1.0
+7,Are both Frank Lloyd and Olivier Assayas American film directors?,"Based on the documents, I can answer the question as follows:
+
+Document 2 states that Frank William George Lloyd (Frank Lloyd) was an American film director, scriptwriter, and producer.
+
+Document 1 states that Olivier Assayas is a French film director, screenwriter, and film critic.
+
+Therefore, the ",5.283780574798584,False,0.08,0.08,1.0,1.0,0.16666666666666666,0.16666666666666666,1.0,1.0
+8,"Which founder of Alcatraz East was born on March 31, 1956?",I cannot answer this question as none of the provided documents contain information about the birthdate of the founder of Alcatraz East.,0.24405017495155334,False,0.0222,0.0222,1.0,1.0,0.2,0.1,0.5,1.0
+9,"Which magazine was first published earlier, The Chronicle of Philanthropy or Skeptic?","To determine which magazine was first published earlier, I need to extract the specific fact from each relevant document.
+
+[Document 1]:
+Skeptic, colloquially known as Skeptic magazine, is a quarterly science education and science advocacy magazine published internationally by The Skeptics Society, ",4.911561965942383,False,0.0588,0.1765,1.0,1.0,0.13333333333333333,0.13333333333333333,1.0,1.0
+10,How many personnel does the Navy that had Gilliam-class atttack transports have on active duty?,"To answer this question, we need to identify the relevant documents and extract the necessary information.
+
+Document 2 mentions the USS ""Carlisle"" (APA-69), a Gilliam-class attack transport that served with the US Navy during World War II. However, it does not provide information about the number of",1.1781398057937622,False,0.037,0.037,1.0,1.0,0.05555555555555555,0.05555555555555555,1.0,1.0
+11,Are Billy and Barak both breeds of scenthound? (Barak is also known as a Bosnian Coarse-haired Hound),"To answer this question, I will extract relevant facts from the provided documents.
+
+[Document 1] states that the Bosnian Coarse-haired Hound, also called the Barak, is a hunting dog breed developed in Bosnia, and it is a scenthound.
+
+[Document 3] states that the Billy is a large scenthound originat",6.913838863372803,False,0.0638,0.0638,1.0,1.0,0.2727272727272727,0.2727272727272727,1.0,1.0
+12,Socialist conferences were held with what countries that opposed the Central Powers in the First World War?,"To answer the question, I will identify the relevant documents, extract the specific facts, and combine them into one clear answer.
+
+Relevant documents:
+[Document 1], [Document 2], [Document 3], and [Document 4]
+
+Extracted facts:
+[Document 1]: The Zimmerwald Conference was held with countries that w",6.460530757904053,False,0.0968,0.129,1.0,0.3333,0.2,0.2,1.0,1.0
+13,What  unincorporated town along the Amargosa River is near the Sarcobatus Flat?,"To answer this question, I need to identify the relevant documents and extract the specific fact from each document.
+
+Document 3 mentions Sarcobatus Flat, which is a closed valley in western Nye County, Nevada. Document 1 mentions Beatty, an unincorporated town in Nye County, Nevada, which is locate",3.962779998779297,False,0.0488,0.0488,1.0,1.0,0.23076923076923078,0.07692307692307693,0.3333333333333333,1.0
+14,What Manchester United and Portuguese national winger scored a goal in the 2009 FA Community Shield?,"To answer the question, I will extract the relevant fact from each document:
+
+[Document 2]:
+The 2009 FA Community Shield was the 87th FA Community Shield, an annual football match contested by the winners of the previous season's Premier League and FA Cup competitions. The match was contested at Wem",5.7720746994018555,False,0.0714,0.1786,1.0,1.0,0.25,0.16666666666666666,0.6666666666666666,1.0
+15,"Manchester, New Hampshire is a part of the Northeast megalopolis which included what other major cities?","To answer this question, I will extract relevant facts from multiple documents.
+
+[Document 2] states that the Northeast megalopolis includes the major cities of Boston, Providence, Hartford, New York City, Philadelphia, Wilmington, Baltimore, and Washington, D.C., along with their metropolitan areas",6.828723430633545,False,0.0588,0.0784,0.6667,1.0,0.22727272727272727,0.045454545454545456,0.2,1.0
+16,Telos was an album by a band who formed in what city?,"To answer the question, I need to extract relevant facts from the documents.
+
+From Document 2, I can see that Telos is an album by the band Forevermore, and it was released on July 22, 2014.
+
+From Document 1, I can see that Forevermore is an American Christian metal band from Indianapolis, Indiana, ",2.837134599685669,False,0.0571,0.0857,1.0,1.0,0.11538461538461539,0.07692307692307693,0.6666666666666666,1.0
+17,"Which item spanned farther distances regarding sales, Interact Home Computer or Sord M5?","To answer this question, I will extract relevant facts from the documents.
+
+[Document 1] mentions that the Sord M5 was sold in Japan, the United Kingdom, Czechoslovakia, and South Korea, but does not provide specific information on the distances between these locations.
+
+[Document 2] states that the",0.8591046333312988,False,0.1522,0.1304,0.8571,0.6667,0.25,0.20833333333333334,0.8333333333333334,0.0
+18,What national team has the brother of Arturas Javtokas been a member of since 2004?,"To answer this question, I need to identify the relevant documents and extract the specific fact from each relevant document.
+
+Document 2 is relevant because it mentions Robertas Javtokas, the brother of Arturas Javtokas.
+
+From Document 2, I can extract the following fact:
+
+* Robertas Javtokas has b",6.431032657623291,False,0.05,0.05,1.0,1.0,0.16666666666666666,0.1111111111111111,0.6666666666666666,1.0
+19,What does Age of Chance and Vector share in common? ,"To answer this question, I will identify the relevant documents and extract the specific facts.
+
+Document 1: Age of Chance is a British alternative rock-dance crossover band from Leeds, England.
+
+Document 3: Vector is a rock band formed in Sacramento, California.
+
+The only commonality between Age of",-1.2125840187072754,False,0.0465,0.0465,1.0,1.0,0.15384615384615385,0.15384615384615385,1.0,1.0

@@ -1,0 +1,115 @@
+index,question,answer,top_score,judge_failed,pred_relevance,pred_utilization,pred_completeness,pred_adherence,gt_relevance,gt_utilization,gt_completeness,gt_adherence
+0,"Which university did one of the key figures in the American documentary film, released in 2015, directed by Malcolm Ingr","Step 1: Read all documents and identify which ones mention entities from the question.
+The question mentions the American documentary film directed by Malcolm Ingram, released in 2015, and one of the key figures who played for the New Jersey Nets before being drafted.
+
+Step 2: Find the bridge — an e",4.509584903717041,False,0.1724,0.1034,0.6,1.0,0.17857142857142858,0.10714285714285714,0.6,0.0
+1,Were both Léopold Eyharts and Ulrich Walter a General in the French Air Force? ,"To answer this question, I will follow the steps:
+
+Step 1: Read ALL documents and identify which ones mention entities from the question.
+The documents that mention entities from the question are:
+- Document 1: mentions Léopold Eyharts
+- Document 2: mentions Ulrich Hans Walter
+- Document 3: mentions",6.7794342041015625,False,0.0667,0.0667,1.0,1.0,0.18181818181818182,0.18181818181818182,1.0,1.0
+2,"Which music group has the most members, DC Talk, or Manchester Orchestra?","Step 1: Identify the documents that mention the entities from the question.
+- Document 1 mentions DC Talk.
+- Document 2 mentions Manchester Orchestra.
+
+Step 2: Find the bridge that connects the question to the answer.
+- The bridge is the number of members in each group.
+
+Step 3: Extract the specific",3.4534449577331543,False,0.0408,0.0204,0.5,0.0,0.16666666666666666,0.16666666666666666,1.0,1.0
+3,"Eddie Jemison had a role in the television series ""IZombie"", which premiered on what date?","Step 1: Identify which documents mention entities from the question.
+- Document 1 mentions Eddie Jemison
+- Document 2 and 3 mention the TV series ""iZombie""
+
+Step 2: Find the bridge — an entity that connects the question to the answer.
+- The bridge is Eddie Jemison and the TV series ""iZombie"".
+
+Step ",6.1646833419799805,False,0.0811,0.0541,0.6667,1.0,0.2727272727272727,0.18181818181818182,0.6666666666666666,1.0
+4,"Consider the band formed in 2015 by JYP Entertainment through the reality show ""Sixteen"". How many tracks are on the rei","Step 1: Identify the documents that mention the entity ""JYP Entertainment"" and the band formed in 2015 through the reality show ""Sixteen"". 
+Document 1 mentions the band formed by JYP Entertainment through the reality show ""Sixteen"".
+Document 2 mentions JYP Entertainment as the label that released th",4.8769121170043945,False,0.0625,0.0625,1.0,1.0,0.3076923076923077,0.23076923076923078,0.75,1.0
+5,What three categories does income get levied under the Parliament of Australia's tax code?,"To answer this question, I will follow the steps:
+
+Step 1: Read ALL documents and identify which ones mention entities from the question.
+The question mentions ""Parliament of Australia"" and ""tax code"", so I will look for documents that mention these entities.
+
+Document 2 mentions the ""Income Tax Ass",6.9086833000183105,False,0.0769,0.0769,1.0,1.0,0.07142857142857142,0.07142857142857142,1.0,1.0
+6,"What city did the author of ""Portraits and Prayers"" choose to live in after moving to France?","Step 1: Identify the documents that mention entities from the question.
+The question mentions ""Portraits and Prayers"" and ""France"". Documents 1 and 2 mention ""Portraits and Prayers"" and ""France"".
+
+Step 2: Find the bridge that connects the question to the answer.
+The bridge is ""Gertrude Stein"", the a",-4.025018692016602,False,0.0556,0.0556,1.0,1.0,0.2222222222222222,0.05555555555555555,0.25,1.0
+7,Are both Frank Lloyd and Olivier Assayas American film directors?,"To answer this question, I will follow the steps:
+
+Step 1: Read all documents and identify which ones mention entities from the question.
+- Document 1 mentions Olivier Assayas.
+- Document 2 mentions Frank Lloyd.
+- Document 3 does not mention either.
+- Document 4 mentions Olivier Assayas.
+- Document ",5.283780574798584,False,0.08,0.08,1.0,1.0,0.16666666666666666,0.16666666666666666,1.0,1.0
+8,"Which founder of Alcatraz East was born on March 31, 1956?","Step 1: Read ALL documents and identify which ones mention entities from the question.
+The question mentions Alcatraz East and its founder, so I'll look for documents related to Alcatraz East and its founders.
+
+Step 2: Find the BRIDGE — an entity that connects the question to the answer.
+The bridge ",0.24405014514923096,False,0.0323,0.0323,1.0,0.0,0.2,0.1,0.5,1.0
+9,"Which magazine was first published earlier, The Chronicle of Philanthropy or Skeptic?","Step 1: Identify relevant documents
+The question mentions two magazines: The Chronicle of Philanthropy and Skeptic. I will read all documents to find the ones that mention these entities.
+
+Document 1 mentions Skeptic.
+Document 2 mentions The Chronicle of Philanthropy.
+
+Step 2: Find the bridge
+The br",4.91156005859375,False,0.0606,0.0606,1.0,1.0,0.13333333333333333,0.13333333333333333,1.0,1.0
+10,How many personnel does the Navy that had Gilliam-class atttack transports have on active duty?,"Step 1: Read all documents and identify which ones mention entities from the question.
+The question mentions the ""Gilliam-class attack transport"" which is mentioned in Document 2.
+
+Step 2: Find the bridge — an entity that connects the question to the answer.
+The bridge is the ""US Navy"" which is ment",1.1781398057937622,False,0.0377,0.0377,1.0,1.0,0.05555555555555555,0.05555555555555555,1.0,1.0
+11,Are Billy and Barak both breeds of scenthound? (Barak is also known as a Bosnian Coarse-haired Hound),"Step 1: Read ALL documents and identify which ones mention entities from the question.
+- Document 1 mentions the ""Bosanski Oštrodlaki Gonič"" or ""Barak"" (Bosnian Coarse-haired Hound).
+- Document 3 mentions the ""Billy"".
+
+Step 2: Find the BRIDGE — an entity that connects the question to the answer.
+- B",6.913838863372803,False,0.0638,0.0638,1.0,1.0,0.2727272727272727,0.2727272727272727,1.0,1.0
+12,Socialist conferences were held with what countries that opposed the Central Powers in the First World War?,"Step 1: Identify relevant documents and entities
+- Document 1 mentions the Zimmerwald Conference and the Central Powers.
+- Document 2 mentions the Entente or Allied powers.
+- Document 3 defines the Entente Powers as the countries opposing the Central Powers.
+- Document 4 mentions the Allied forces o",6.460529804229736,False,0.0968,0.1613,1.0,0.0,0.2,0.2,1.0,1.0
+13,What  unincorporated town along the Amargosa River is near the Sarcobatus Flat?,"Step 1: Read ALL documents and identify which ones mention entities from the question.
+- The question mentions the Amargosa River and Sarcobatus Flat.
+- Document 1 mentions the Amargosa River.
+- Document 3 mentions Sarcobatus Flat.
+- Document 2 mentions Sarcobatus Flat and U.S. Route 95, which is al",3.9627819061279297,False,0.0513,0.0513,1.0,1.0,0.23076923076923078,0.07692307692307693,0.3333333333333333,1.0
+14,What Manchester United and Portuguese national winger scored a goal in the 2009 FA Community Shield?,"Step 1: Read ALL documents and identify which ones mention entities from the question.
+The question mentions Manchester United and the Portuguese national winger. Documents 4, 6, and 9 mention Manchester United, but only Document 4 mentions a Portuguese national winger.
+
+Step 2: Find the BRIDGE — an",5.7720746994018555,False,0.0667,0.0667,1.0,1.0,0.25,0.16666666666666666,0.6666666666666666,1.0
+15,"Manchester, New Hampshire is a part of the Northeast megalopolis which included what other major cities?","Step 1: Identify relevant documents and entities
+The question mentions Manchester, New Hampshire, and the Northeast megalopolis. Relevant documents are:
+- Document 2: mentions the Northeast megalopolis and several major cities.
+- Document 6: mentions Baltimore County, which is part of the Northeast ",6.828723430633545,False,0.0526,0.0351,0.6667,1.0,0.22727272727272727,0.045454545454545456,0.2,1.0
+16,Telos was an album by a band who formed in what city?,"Step 1: Identify relevant documents
+The question mentions ""Telos"" and an album, so I'll look for documents that mention ""Telos"" and a band. Documents 1, 2, and 3 are relevant.
+
+Step 2: Find the bridge
+The bridge is the entity that connects the question to the answer. In this case, the bridge is the ",2.837134599685669,False,0.1,0.1,1.0,1.0,0.11538461538461539,0.07692307692307693,0.6666666666666666,1.0
+17,"Which item spanned farther distances regarding sales, Interact Home Computer or Sord M5?","Step 1: Read ALL documents and identify which ones mention entities from the question.
+The question mentions Interact Home Computer and Sord M5, so I'll look for documents that mention these entities.
+
+Step 2: Find the BRIDGE — an entity that connects the question to the answer.
+The bridge is the sa",0.8591046333312988,False,0.1875,0.125,0.6667,0.6,0.25,0.20833333333333334,0.8333333333333334,0.0
+18,What national team has the brother of Arturas Javtokas been a member of since 2004?,"Step 1: Read ALL documents and identify which ones mention entities from the question.
+- Document 1 mentions Artūras Javtokas.
+- Document 2 mentions Robertas Javtokas, the brother of Artūras Javtokas.
+
+Step 2: Find the BRIDGE — an entity that connects the question to the answer.
+- The bridge is Robe",6.431033134460449,False,0.04,0.04,1.0,1.0,0.16666666666666666,0.1111111111111111,0.6666666666666666,1.0
+19,What does Age of Chance and Vector share in common? ,"Step 1: Read ALL documents and identify which ones mention entities from the question.
+The entities mentioned in the question are ""Age of Chance"" and ""Vector"".
+
+Document 1 mentions ""Age of Chance"".
+Document 3 mentions ""Vector"".
+
+Step 2: Find the BRIDGE — an entity that connects the question to the a",-1.2125848531723022,False,0.0444,0.0444,1.0,1.0,0.15384615384615385,0.15384615384615385,1.0,1.0

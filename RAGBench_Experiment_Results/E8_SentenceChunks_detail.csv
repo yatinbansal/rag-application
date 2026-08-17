@@ -1,0 +1,98 @@
+index,question,answer,top_score,judge_failed,pred_relevance,pred_utilization,pred_completeness,pred_adherence,gt_relevance,gt_utilization,gt_completeness,gt_adherence
+0,I want to  enter into Ambient mode. How can I do that?,"To enter Ambient Mode, press the button.",6.11329460144043,False,0.4,0.1,0.25,1.0,0.02040816326530612,0.04081632653061224,1.0,1.0
+1,Where do I find signal information ?,"According to Document 1, Signal Information is only available for digital channels, and it can be found by verifying that the current channel is a digital channel.
+
+To find signal information, follow these steps:
+
+1. Verify that the current channel is a digital channel. (Document 1)
+2. Check the sig",0.9779701232910156,False,0.625,0.625,1.0,0.875,0.1111111111111111,0.1111111111111111,1.0,1.0
+2,How can I view the channels that are serached by auto program function and How can I view first five favorite channel?,"To view the channels that are searched by the auto program function, you can use the following steps:
+
+1. Go to Settings (Document 4).
+2. Select Broadcasting (Document 4).
+3. Choose Auto Program (Document 4).
+4. Select Try Now (Document 4).
+5. The channels that have been automatically searched will ",1.3705880641937256,False,0.9,0.7,0.6667,0.6667,0.42105263157894735,0.15789473684210525,0.375,1.0
+3,Can I configure Tint?,"Yes, you can configure Tint. According to Document 3, you can use the ""Try Now Tint (G/R)"" function to configure Tint.",-8.522994995117188,False,0.3333,0.3333,1.0,1.0,0.03225806451612903,0.03225806451612903,1.0,1.0
+4,How do I fix the missing/wrong color issue ?,"According to Document 1, if the picture is distorted or the color is wrong or missing, try disabling some of the TV's energy efficiency functions, specifically checking if the Sleep Timer has been enabled.
+
+Additionally, Document 2 suggests checking the Component cables to ensure they are connected ",1.7398297786712646,False,0.25,0.8333,1.0,1.0,0.08928571428571429,0.17857142857142858,0.4,1.0
+5,How do I fix blurring issues on TV screen?,"According to Document 2, to fix blurring issues, try adjusting the Screen Brightness setting.",3.0979909896850586,False,0.2308,0.1538,0.6667,1.0,0.03571428571428571,0.03571428571428571,1.0,1.0
+6,What is the use of universal guide?,"According to Document 1, Document 2, Document 3, and Document 5, the use of Universal Guide is to:
+
+* Search for and enjoy various content such as TV shows, dramas, movies, sports broadcasts, and music (Document 2)
+* Recommend content tailored to your preferences (Document 3 and Document 5)
+* Notify",7.765199184417725,False,0.4286,0.4286,1.0,1.0,0.2777777777777778,0.16666666666666666,0.6,1.0
+7,What is the feature of Bixby guide?,"According to Document 3, the feature of the Bixby guide is that it can be viewed by pressing a button once, and it appears at the bottom of the screen.",2.436891555786133,False,0.2,0.2,1.0,0.0,0.13333333333333333,0.13333333333333333,1.0,1.0
+8,How to launch the last used app automatically?,"According to [Document 1], to launch the last used app automatically, go to Settings > General > Smart Features > Autorun Last App and set it to ""Try Now"".",8.217360496520996,False,0.0833,0.0833,1.0,1.0,0.06818181818181818,0.045454545454545456,0.6666666666666666,1.0
+9,Where do I find the list of my favorite channels?,"You can find the list of your favorite channels in the Edit Channels and Channel List screens, where they are highlighted with the symbol.",5.049934387207031,False,0.3,0.3,1.0,1.0,0.4166666666666667,0.3333333333333333,0.8,1.0
+10, I want to setup a  beautiful screens. How can I do that?,"According to Document 1, you can select beautiful screens by choosing the ""Decor"" category.",1.54581880569458,False,0.125,0.125,1.0,1.0,0.03278688524590164,0.04918032786885246,1.0,1.0
+11,How do I record using time Timeshift function?,"According to Document 1, to record using the Timeshift function, you need to select the ""Timeshift"" function on the menu.",6.78769063949585,False,1.0,0.25,0.25,1.0,0.2,0.1,0.5,1.0
+12,My IP auto setting failed. How to configure it?,"According to Document 1, to configure the IP auto setting, you should:
+
+1. Go to IP Settings
+2. Go to Settings
+3. Go to General
+4. Go to Network
+5. Go to Network Status
+6. Go to IP Settings
+7. Make sure that the DHCP server is enabled on the router.
+
+This should resolve the IP auto setting failed is",7.594959259033203,False,0.2,0.2,1.0,1.0,0.11538461538461539,0.15384615384615385,0.6666666666666666,1.0
+13,How can I connect my mobile device to the TV?,"To connect your mobile device to the TV, follow these steps:
+
+1. Turn on the TV (Document 2).
+2. Start the SmartThings app on your mobile device (Document 2).
+3. Tap ""Add Device"" on the dashboard of the SmartThings app (Document 2).
+4. Connectable TVs are searched for (Document 2).
+
+Alternatively, y",8.845654487609863,False,0.8182,0.5455,0.6667,1.0,0.39285714285714285,0.35714285714285715,0.9090909090909091,1.0
+14,How to configure Contrast and Sharpness?,"To configure Contrast and Sharpness, follow these steps:
+
+1. Go to Settings > Picture > Expert Settings.
+2. Select Contrast and adjust it to your taste.
+3. Select Sharpness and adjust it to your taste.
+
+(Refer to Document 1: ""Try Now Contrast"" and ""Try Now Sharpness"")",3.425626277923584,False,0.1667,0.3333,1.0,1.0,0.07692307692307693,0.07692307692307693,1.0,1.0
+15,What are the steps to reset network?,"According to Document 1, the steps to reset network are:
+
+1. Go to Settings
+2. Go to General
+3. Go to Network
+4. Select Reset
+5. Select Network
+6. Select Try Now
+Restore the network settings to the factory default.",3.3348727226257324,False,0.5,0.375,0.75,1.0,0.037037037037037035,0.037037037037037035,1.0,0.0
+16,How do I view a list of mobile devices registered to the TV?,"According to Document 1, you can view, edit, or remove a list of mobile devices registered to the TV in the Device List View.",7.133103847503662,False,0.0909,0.0909,1.0,1.0,0.1111111111111111,0.07407407407407407,0.6666666666666666,1.0
+17,I get this error 'some files cannot be played'. How do I fix this?,"According to Document 1, when files don't play, you can try to resolve the problem by checking if the issue is with high-bitrate files. 
+
+Try this:
+
+1. Check if the file is a high-bitrate file (as mentioned in Document 2).
+2. If it is, try playing a different file to see if the issue is specific to ",4.97526216506958,False,0.8,0.5,0.625,0.8,0.21052631578947367,0.15789473684210525,0.25,0.0
+18,How do I set scheduled viewing time?,"To set a scheduled viewing time, you must first set the TV's clock (Settings > General > System Manager > Time > Clock).",9.274639129638672,False,0.4444,0.2222,0.5,1.0,0.35,0.15,0.42857142857142855,1.0
+19,Can I scan TV for malicious code ?,"According to Document 1: Yes, you can scan the TV and connected storage for malicious code by going to Settings > General System Manager > Smart Security > Scan.",8.683316230773926,False,0.2727,0.2727,1.0,1.0,0.7692307692307693,0.5384615384615384,0.7,1.0
+20,What is decor and how to set wallpaper of the Ambient Mode screen?,"According to Document 1, the feature is called ""Photo"" and it allows you to set a picture stored in your mobile device as the wallpaper of the Ambient Mode screen.
+
+To set the wallpaper, you can follow the steps in Document 3: Take a picture of a wall using the SmartThings app on your mobile device ",3.914935350418091,False,0.2222,0.3333,1.0,1.0,0.12244897959183673,0.12244897959183673,1.0,1.0
+21,Can I request service I am having problem with the TV?,"Yes, you can request service when you encounter a problem with the TV. (Document 1: Settings Support Request Support Try Now You can request service when you encounter a problem with the TV)",8.421788215637207,False,0.2,0.2,1.0,1.0,0.5625,0.375,0.6666666666666666,1.0
+22,From where I can see program information?,"According to Document 1, Document 2, Document 3, and Document 5, you can see program information from the ""Program Info window"" which appears after pressing the ""Select"" button while watching TV.",2.6667442321777344,False,0.6667,0.6667,1.0,1.0,0.6111111111111112,0.5555555555555556,0.9090909090909091,1.0
+23,What is source and how to serch data for channels?,"According to Document 1, the source is the input source that has been selected. To confirm that the correct input source has been selected, you should:
+
+1. Select Source
+2. If the TV is not connected to a cable box or satellite box, run Auto Program to search for channels.",-2.3401951789855957,False,0.2727,0.2727,1.0,1.0,0.21739130434782608,0.21739130434782608,0.8,1.0
+24,How can I change Antenna type?,"Unfortunately, I cannot find any information in the provided documents about changing the antenna type. The documents mention using signal strength information to adjust the antenna (Document 1), connecting an antenna cable (Document 2), and changing the broadcast signal (Document 5), but none of th",-0.1432226598262787,False,0.0,0.3333,0.0,1.0,0.1111111111111111,0.2222222222222222,1.0,0.0
+25,Can I turn on the TV with a mobile device?,"According to Document 1, yes, you can turn on the TV with your mobile device when both of them are connected to the same network.",9.155753135681152,False,0.4286,0.2857,0.6667,1.0,0.13636363636363635,0.13636363636363635,1.0,1.0
+26,What is the function of 'Learn TV Remote'?,"According to Document 1, the function of 'Learn TV Remote' is: ""This function helps individuals with a visual impairment to learn the positions of the buttons on the remote control.""",7.339172840118408,False,0.2,0.2,1.0,1.0,0.04878048780487805,0.04878048780487805,1.0,1.0
+27,Can I select Ambient Light Detection ?,"According to Document 3: Minimum Backlight Try Now, When Ambient Light Detection is turned on, you can manually adjust the minimum brightness of the TV screen.",7.807829856872559,False,0.6,0.2,0.3333,1.0,0.08333333333333333,0.020833333333333332,0.25,1.0
+28,How do I fix odd sound of speaker?,"To fix the odd sound of the speaker, I recommend trying the following steps:
+
+1. Press the Select button to change the sound mode (Document 3).
+2. If that doesn't work, try changing the audio output by pressing the Select button (Document 4).
+3. If the issue persists, try making fine adjustments by ",2.4399712085723877,False,0.625,0.375,0.6,1.0,0.5714285714285714,0.25,0.4375,1.0
+29,How can I search for the channels?,"To search for channels, follow these steps:
+
+1. Select Source (Document 2)
+2. Run Auto Program to search for channels (Document 2)
+
+Note: If the TV is not connected to a cable box or satellite box, running Auto Program will search for channels.",5.225121974945068,False,0.8182,0.3636,0.4444,1.0,0.5454545454545454,0.30303030303030304,0.5555555555555556,1.0

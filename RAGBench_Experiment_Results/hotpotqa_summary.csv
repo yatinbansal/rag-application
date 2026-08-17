@@ -1,0 +1,11 @@
+experiment,domain,embed,chunk_size,table_aware,top_k,reranker,retrieval,generator,judge,samples,judge_fails,refusals,rmse_relevance,rmse_utilization,rmse_completeness,rmse_adherence,rmse_avg,auc_relevance,auc_utilization,auc_completeness,auc_adherence
+H1_Baseline,hotpotqa,all-MiniLM-L6-v2,512,False,5,True,dense,llama-8b,gemma-12b,20,0,1,0.2191,0.1686,0.3195,0.271,0.2446,,,0.598,0.7083
+H2_NoChunking,hotpotqa,all-MiniLM-L6-v2,9999,False,5,True,dense,llama-8b,gemma-12b,20,0,1,0.1201,0.1073,0.3561,0.3969,0.2451,,,0.4412,0.4167
+H3_TopK10,hotpotqa,all-MiniLM-L6-v2,9999,False,10,True,dense,llama-8b,gemma-31b,20,0,1,0.1375,0.0887,0.2793,0.2499,0.1889,,,0.7745,0.9444
+H4_BGEBase,hotpotqa,BAAI/bge-base-en-v1.5,9999,False,10,True,dense,llama-8b,gemma-31b,20,0,1,0.1371,0.0931,0.2933,0.2918,0.2038,,,0.6078,0.7083
+H5_WidePool30,hotpotqa,BAAI/bge-base-en-v1.5,9999,False,10,True,dense,llama-8b,gemma-31b,20,1,0,0.1443,0.1052,0.397,0.4216,0.267,,,0.5098,0.4167
+H6_Hybrid,hotpotqa,BAAI/bge-base-en-v1.5,9999,False,10,False,hybrid,llama-8b,gemma-31b,20,0,0,0.1405,0.0981,0.4137,0.329,0.2453,,,0.5294,0.6389
+H7_MultiHopPrompt,hotpotqa,BAAI/bge-base-en-v1.5,9999,False,10,True,dense,llama-8b,gemma-31b,20,0,0,0.1374,0.0942,0.3277,0.4669,0.2566,,,0.5294,0.625
+H8_AggressiveRetrieval,hotpotqa,BAAI/bge-base-en-v1.5,9999,False,15,True,dense,llama-8b,gemma-31b,20,0,0,0.1604,0.1123,0.2417,0.3983,0.2282,,,0.7451,0.4167
+H9_UpgradedLLMs,hotpotqa,BAAI/bge-base-en-v1.5,9999,False,10,True,dense,gpt-20b,llama-70b,20,0,1,0.1445,0.1058,0.389,0.4472,0.2716,,,0.549,0.4444
+H10_BestCombo,hotpotqa,all-MiniLM-L6-v2,9999,False,10,True,dense,llama-8b,gemma-31b,30,1,1,0.2032,0.126,0.3889,0.2509,0.2422,0.1786,,0.5312,0.9471

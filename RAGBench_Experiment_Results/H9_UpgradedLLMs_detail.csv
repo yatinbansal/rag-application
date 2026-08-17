@@ -1,0 +1,33 @@
+index,question,answer,top_score,judge_failed,pred_relevance,pred_utilization,pred_completeness,pred_adherence,gt_relevance,gt_utilization,gt_completeness,gt_adherence
+0,"Which university did one of the key figures in the American documentary film, released in 2015, directed by Malcolm Ingr","The key figure is Jason Collins, who played college basketball for **Stanford University** before being drafted 18th overall by the New Jersey Nets.",4.509584903717041,False,0.1034,0.1034,1.0,1.0,0.17857142857142858,0.10714285714285714,0.6,0.0
+1,Were both Léopold Eyharts and Ulrich Walter a General in the French Air Force? ,"No.  
+- Léopold Eyharts is a Brigadier General in the French Air Force.  
+- Ulrich Hans Walter is a German physicist/engineer and former DFVLR astronaut; he is not a general in the French Air Force.",6.7794342041015625,False,0.0667,0.0667,1.0,1.0,0.18181818181818182,0.18181818181818182,1.0,1.0
+2,"Which music group has the most members, DC Talk, or Manchester Orchestra?","Manchester Orchestra has more members.  
+- DC Talk is a trio (Toby McKeehan, Michael Tait, Kevin Max Smith).  
+- Manchester Orchestra is a quartet (Andy Hull, Robert McDowell, Andy Prince, Tim Very).",3.4534449577331543,False,0.0408,0.0408,1.0,1.0,0.16666666666666666,0.16666666666666666,1.0,1.0
+3,"Eddie Jemison had a role in the television series ""IZombie"", which premiered on what date?","Eddie Jemison appeared in the television series **iZombie**, which premiered on **March 17, 2015**.",6.1646833419799805,False,0.0811,0.0541,0.6667,1.0,0.2727272727272727,0.18181818181818182,0.6666666666666666,1.0
+4,"Consider the band formed in 2015 by JYP Entertainment through the reality show ""Sixteen"". How many tracks are on the rei","The reissue of Twice’s third EP, *Twicecoaster: Lane 2*, contains **13 tracks**【2】【1】.",4.8769121170043945,False,0.0625,0.0625,1.0,1.0,0.3076923076923077,0.23076923076923078,0.75,1.0
+5,What three categories does income get levied under the Parliament of Australia's tax code?,"Income tax in Australia is levied on three categories of income for individual taxpayers:  
+
+1. **Personal earnings** (e.g., salary and wages)  
+2. **Business income**  
+3. **Capital gains**【Document 1】",6.9086833000183105,False,0.0256,0.0256,1.0,1.0,0.07142857142857142,0.07142857142857142,1.0,1.0
+6,"What city did the author of ""Portraits and Prayers"" choose to live in after moving to France?",Gertrude Stein chose to live in **Paris** after moving to France.,-4.025018692016602,False,0.0278,0.0278,1.0,1.0,0.2222222222222222,0.05555555555555555,0.25,1.0
+7,Are both Frank Lloyd and Olivier Assayas American film directors?,"No. Frank Lloyd was an American film director, while Olivier Assayas is a French film director.",5.283780574798584,False,0.08,0.08,1.0,1.0,0.16666666666666666,0.16666666666666666,1.0,1.0
+8,"Which founder of Alcatraz East was born on March 31, 1956?",I cannot answer.,0.24405014514923096,False,0.0,0.0,0.0,0.0,0.2,0.1,0.5,1.0
+9,"Which magazine was first published earlier, The Chronicle of Philanthropy or Skeptic?","The Chronicle of Philanthropy was first published earlier. It was founded in 1988, while Skeptic magazine first appeared in the spring of 1992.",4.91156005859375,False,0.0606,0.0606,1.0,1.0,0.13333333333333333,0.13333333333333333,1.0,1.0
+10,How many personnel does the Navy that had Gilliam-class atttack transports have on active duty?,"The United States Navy, which operated the Gilliam‑class attack transports, has **322,421** personnel on active duty.",1.1781398057937622,False,0.0377,0.0377,1.0,1.0,0.05555555555555555,0.05555555555555555,1.0,1.0
+11,Are Billy and Barak both breeds of scenthound? (Barak is also known as a Bosnian Coarse-haired Hound),"Yes.  
+- The **Billy** is described as a large scenthound from central‑western France.  
+- The **Barak** (Bosnian Coarse‑haired Hound) is also identified as a scenthound used for hunting large game.",6.913838863372803,False,0.0426,0.0426,1.0,1.0,0.2727272727272727,0.2727272727272727,1.0,1.0
+12,Socialist conferences were held with what countries that opposed the Central Powers in the First World War?,ERROR,6.460529804229736,False,0.0645,0.0,0.0,0.0,0.2,0.2,1.0,1.0
+13,What  unincorporated town along the Amargosa River is near the Sarcobatus Flat?,Beatty.,3.9627819061279297,False,0.0769,0.0256,0.3333,1.0,0.23076923076923078,0.07692307692307693,0.3333333333333333,1.0
+14,What Manchester United and Portuguese national winger scored a goal in the 2009 FA Community Shield?,"The goal was scored by **Nani** (Luís Carlos Almeida da Cunha), the Portuguese winger who played for Manchester United.",5.7720746994018555,False,0.0667,0.0667,1.0,1.0,0.25,0.16666666666666666,0.6666666666666666,1.0
+15,"Manchester, New Hampshire is a part of the Northeast megalopolis which included what other major cities?","Manchester, New Hampshire is part of the Northeast megalopolis, which also includes the major cities of **Boston, Providence, Hartford, New York City, Philadelphia, Wilmington, Baltimore, and Washington, D.C.**",6.828723430633545,False,0.0351,0.0351,1.0,1.0,0.22727272727272727,0.045454545454545456,0.2,1.0
+16,Telos was an album by a band who formed in what city?,"Telos was released by Forevermore, a band that was formed in **Indianapolis**.",2.837134599685669,False,0.0667,0.0667,1.0,1.0,0.11538461538461539,0.07692307692307693,0.6666666666666666,1.0
+17,"Which item spanned farther distances regarding sales, Interact Home Computer or Sord M5?","The **Sord M5** spanned farther distances regarding sales.  
+- The Sord M5 was sold in Japan, the United Kingdom (as the CGL M5), Czechoslovakia, South Korea, and also under the Game M5 brand in Japan.  
+- The Interact Home Computer’s sales were largely confined to the United States, with distributi",0.8591046333312988,False,0.2083,0.1458,0.7,1.0,0.25,0.20833333333333334,0.8333333333333334,0.0
+18,What national team has the brother of Arturas Javtokas been a member of since 2004?,"The brother of Artūras Javtokas, Robertas Javtokas, has been a member of the senior men’s **Lithuanian national basketball team** since 2004.",6.431033134460449,False,0.06,0.06,1.0,1.0,0.16666666666666666,0.1111111111111111,0.6666666666666666,1.0
+19,What does Age of Chance and Vector share in common? ,Both are musical groups: Age of Chance and Vector are rock‑oriented bands that were formed in the 1980s (Age of Chance in 1985 and Vector in the early 1980s).,-1.2125848531723022,False,0.0444,0.0444,1.0,1.0,0.15384615384615385,0.15384615384615385,1.0,1.0

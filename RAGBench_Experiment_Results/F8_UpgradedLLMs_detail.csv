@@ -1,0 +1,126 @@
+index,question,answer,top_score,judge_failed,pred_relevance,pred_utilization,pred_completeness,pred_adherence,gt_relevance,gt_utilization,gt_completeness,gt_adherence
+0,what is the rate of return in cadence design systems inc . of an investment from 2010 to 2011?,"The rate of return for Cadence Design Systems Inc. from 2010 to 2011 is calculated as follows:
+
+Formula: (Value in 2011 - Value in 2010) / Value in 2010
+
+Value in 2010: $100.00
+Value in 2011: $137.90
+
+Calculation: ($137.90 - $100.00) / $100.00 = 0.3790
+
+Therefore, the rate of return is 37.90%.",5.074666500091553,False,0.0435,0.0435,1.0,1.0,0.1111111111111111,0.1111111111111111,1.0,1.0
+1,what is the ratio of the total american personnel to us airways personnel,"The ratio of total American personnel to US Airways personnel is calculated as follows:
+
+Total American personnel: 61600
+Total US Airways personnel: 32800
+
+Ratio = Total American personnel / Total US Airways personnel = 61600 / 32800 = 1.878.",2.5568790435791016,False,0.0417,0.0417,1.0,1.0,0.04,0.04,1.0,1.0
+2,what portion of total assets acquired of anios are intangible assets?,"The total consideration for the Anios acquisition was $798.3 million. Acquired amortizable intangible assets totaled $123 million, including $54 million for customer relationships and $69 million for trademarks. Therefore, the portion of total assets acquired that are intangible assets is $123 milli",1.0428377389907837,False,0.1,0.1,1.0,1.0,0.1,0.05,0.5,1.0
+3,what is the five year total return on the goldman sachs group inc.?,I cannot answer. There is no specific five-year total return for Goldman Sachs Group Inc. provided in the context.,3.2370495796203613,False,0.0588,0.0,0.0,1.0,0.1111111111111111,0.1111111111111111,1.0,0.0
+4,what is the percentage change in the total carrying amount of goodwill from 2016 to 2017?,"The carrying value of goodwill as of December 31, 2017, was $7.7 billion. As of December 31, 2016, it was $3.67 billion.
+
+Percentage change = ((2017 Value - 2016 Value) / 2016 Value) * 100
+Percentage change = (($7.7 billion - $3.67 billion) / $3.67 billion) * 100
+Percentage change = (4.03 billion / ",4.770918369293213,False,0.1176,0.1176,1.0,1.0,0.05,0.05,1.0,1.0
+5,what is the net change in net revenue during 2015 for entergy corporation?,Net income increased by $16.5 million from 2016 compared to 2015 (Document 1).,5.210010528564453,False,0.0,0.0714,0.0,0.0,0.07142857142857142,0.07142857142857142,1.0,1.0
+6,what was the 2015 total return for the peer group?,I cannot answer. There is no 2015 total return for the peer group provided in the context.,4.6391706466674805,False,0.0,0.0,0.0,1.0,0.5,0.16666666666666666,0.3333333333333333,1.0
+7,what was the profit margin of printing papers in 2005,"I cannot answer. There is no profit margin data for printing papers in 2005. However, printing papers net sales in 2005 were $592 million.",8.271947860717773,False,0.04,0.04,1.0,0.5,0.023809523809523808,0.023809523809523808,1.0,1.0
+8,what was the percent change in the aggregate net asset values of the direct lending collateral pools between 2007 and 20,"The aggregate net asset value of the direct lending collateral pools was $150 billion in 2007 and $85 billion in 2008.
+
+Percent change = ((Value in 2008 - Value in 2007) / Value in 2007) * 100
+Percent change = (($85 - $150) / $150) * 100
+Percent change = (-$65 / $150) * 100
+Percent change = -43.33%",5.983837604522705,False,0.0417,0.0417,1.0,1.0,0.15384615384615385,0.07692307692307693,0.5,1.0
+9,what was the percentage cumulative total shareholder return on disca common stock for the five year period ended decembe,"I cannot answer. There is no mention of ""disca common stock"" in the provided documents.",6.085378646850586,False,0.0,0.0,0.0,1.0,0.07692307692307693,0.07692307692307693,1.0,1.0
+10,what was the percentage change in the cash dividends paid per common share from 2006 to 2007,"The cash dividends paid per common share in 2006 was $1.08 and in 2007 was $1.11.
+
+Percentage change = ((New Value - Old Value) / Old Value) * 100
+Percentage change = (($1.11 - $1.08) / $1.08) * 100
+Percentage change = (0.03 / 1.08) * 100
+Percentage change = 2.78%",8.764383316040039,False,0.0417,0.0417,1.0,1.0,0.034482758620689655,0.034482758620689655,1.0,1.0
+11,what is the after-tax share-based compensation cost in 2010?,"The share-based compensation cost in 2010 was $18.1 million. The income tax benefit was $ -6.3 million.
+
+After-tax share-based compensation cost = Share-based compensation cost + Income tax benefit
+After-tax share-based compensation cost = $18.1 million + (-$6.3 million) = $11.8 million.",6.575504302978516,False,0.2,0.2,1.0,0.75,0.04,0.04,1.0,1.0
+12,"what was the average for ""other"" loans held in 2012 and 2011?","Loans held-for-sale were $4406 million in 2012 and $2524 million in 2011.
+
+Average = ($4406 + $2524) / 2 = $3465 million.",5.690023422241211,False,0.0455,0.0455,1.0,1.0,0.034482758620689655,0.034482758620689655,1.0,1.0
+13,what is the percentage change in total financial liabilities at fair value in 2012?,"The total financial liabilities at fair value in 2012 were $377,677 million. The total financial liabilities at fair value in 2013 were $355,173 million.
+
+Percentage change = ((2013 Value - 2012 Value) / 2012 Value) * 100
+Percentage change = (($355,173 - $377,677) / $377,677) * 100
+Percentage change",5.055806636810303,False,0.1,0.1,1.0,1.0,0.06666666666666667,0.06666666666666667,1.0,1.0
+14,"what are the net revenues in investment management in 2016 , in billions?","$6.22 billion in 2017 was 7% higher than 2016.
+2017 investment management revenues: $6.22 billion
+2017 investment management revenues: $5.80 billion
+To find 2016 investment management revenues, we can use the following formula:
+2016 = 2017 / (1 + percentage increase)
+2016 = $6.22 / (1 + 0.07) = $5.8",8.695470809936523,False,0.0435,0.087,1.0,0.7143,0.02857142857142857,0.02857142857142857,1.0,1.0
+15,was was the total amount spent on stock repurchases in december 2012?,"In December 2012, the total amount spent on stock repurchases was approximately $46.0 million (Document 2) + $8 million (Document 4) = $54.0 million.",8.529592514038086,False,0.0667,0.1333,1.0,0.0,0.09090909090909091,0.0,0.0,0.0
+16,what was the net change in tax positions in 2014,"Here's the breakdown of the net change in tax positions in 2014, based on the provided documents:
+
+**Document 2:**
+
+*   Increases in current period tax positions: $53,818
+*   Decreases in prior period measurement of tax positions: -$36,528
+*   Net change: $53,818 - $36,528 = $17,290
+
+**Document 3:**",3.998673439025879,False,0.1667,0.125,0.75,0.9333,0.038461538461538464,0.038461538461538464,1.0,1.0
+17,what portion of the total noncancelable future lease commitments are due in fiscal year of 2019?,"The total noncancelable future lease commitments are $559.3 million. The operating leases for fiscal 2019 are $137.4 million.
+
+Portion due in fiscal year 2019 = ($137.4 / $559.3) * 100% = 24.55%.",4.061861991882324,False,0.0556,0.0556,1.0,1.0,0.1,0.05,0.5,1.0
+18,"in millions for 2012 and 2011 , what was the maximum tier 2 capital?",Tier 2 capital was $39 million in 2012 and $6 million in 2011.,6.347006320953369,False,0.0476,0.0476,1.0,1.0,0.038461538461538464,0.038461538461538464,1.0,1.0
+19,what portion of the total restricted units will vest in 2011?,"Based on Document 1, 8000 restricted stock units will vest on January 25, 2011. Document 5 states restricted units are generally time-based awards with a vesting period of two to five years. Document 6 states the total fair value of share awards vested in 2011 was $10.8 million. I cannot determine t",2.067432403564453,False,0.0526,0.1579,1.0,1.0,0.037037037037037035,0.037037037037037035,1.0,1.0
+20,what was the percent change in number of shares purchased by employees between 2010 and 2011,"The number of shares purchased in 2010 was 2.7 million, and in 2011 it was 2.2 million.
+
+Percent change = ((New Value - Old Value) / Old Value) * 100
+Percent change = ((2.2 - 2.7) / 2.7) * 100 = -18.52%
+
+The percent change is -18.52%.",6.486034393310547,False,0.0556,0.0556,1.0,0.75,0.03571428571428571,0.03571428571428571,1.0,1.0
+21,what was the percent of the total gains that was from the sales of land,"Here's the breakdown of the calculation:
+
+**2001:**
+
+*   Gain on land sales: $5080
+*   Total: $45708
+*   Percentage: ($5080 / $45708) * 100 = 1.11%
+
+**2000:**
+
+*   Gain on land sales: $9165
+*   Total: $60692
+*   Percentage: ($9165 / $60692) * 100 = 15.13%
+
+**2003:**
+
+*   Gain on land sales: $7695
+* ",1.6207027435302734,False,0.0909,0.0909,1.0,1.0,0.03571428571428571,0.03571428571428571,1.0,1.0
+22,what was the percentual decrease observed in the liabilities for accrued interest and penalties during 2012 and 2013?,"Liabilities for accrued interest and penalties were $665 million in 2013 and $1.2 billion in 2012.
+
+Percentage decrease = (($1.2 billion - $665 million) / $1.2 billion) * 100% = (535 million / 1200 million) * 100% = 44.58%.",4.837413787841797,False,0.0667,0.0667,1.0,1.0,0.03225806451612903,0.03225806451612903,1.0,1.0
+23,what portion of the total estimated purchase price is paid in cash?,"The cash portion of the consideration is $2,094,800. The total estimated purchase price is $6,156,900.
+
+Cash portion as a percentage of total purchase price: ($2,094,800 / $6,156,900) * 100% = 34.02%.",5.402629375457764,False,0.0625,0.0625,1.0,1.0,0.15789473684210525,0.05263157894736842,0.3333333333333333,1.0
+24,as a result of the sales of certain non-core towers and other assets what was the percent of the change in the recorded ,"The recorded net losses from 2007 to 2008 were $9.2 million and $10.5 million, respectively.
+
+Change = ($10.5 million - $9.2 million) = $1.3 million
+Percent Change = ($1.3 million / $9.2 million) * 100% = 14.13%",5.760815143585205,False,0.2,0.2,1.0,0.0,0.12121212121212122,0.06060606060606061,0.5,0.0
+25,what was the percentage rent increase between 2007 and 2008?,"Rent expense was $205 million in 2007 and $216 million in 2008.
+
+Percentage increase = (($216 - $205) / $205) * 100 = (11 / 205) * 100 = 5.37%.",3.1762006282806396,False,0.05,0.05,1.0,1.0,0.03225806451612903,0.03225806451612903,1.0,1.0
+26,what was the percentage change in the the research and development costs from 2014 to 2015,"The research and development expense was $86 million in 2014 and $119 million in 2015.
+
+Percentage change = ((2015 value - 2014 value) / 2014 value) * 100
+Percentage change = (($119 million - $86 million) / $86 million) * 100
+Percentage change = (33 million / 86 million) * 100
+Percentage change = 38",5.267816543579102,False,0.0667,0.0667,1.0,1.0,0.03571428571428571,0.03571428571428571,1.0,1.0
+27,what was the lowest effective tax rate in the three year period?,"The lowest effective tax rate in the three-year period (2011, 2012, and 2013) was 27.8% in 2011. (Document 4)",0.086688332259655,False,0.1,0.1,1.0,0.5,0.08333333333333333,0.08333333333333333,1.0,1.0
+28,what was the percentage growth in the dividend yield from 2007 to 2008,"Dividend yield in 2007 was 1.5%. Dividend yield in 2008 was 2.9%.
+
+Percentage growth = [(Value in 2008 - Value in 2007) / Value in 2007] * 100
+Percentage growth = [(2.9% - 1.5%) / 1.5%] * 100 = 93.33%",4.913386344909668,False,0.1481,0.1481,1.0,1.0,0.06666666666666667,0.06666666666666667,1.0,0.0
+29,in 2018 what was the percent of the cib markets net interest income as part of the managed interest income,"The managed net interest income in 2018 was $55687. The cib markets net interest income in 2018 was $3087.
+
+Percentage calculation: ($3087 / $55687) * 100 = 5.55%
+
+Therefore, the cib markets net interest income was 5.55% of the managed interest income in 2018.",7.2523369789123535,False,0.125,0.125,1.0,1.0,0.06060606060606061,0.06060606060606061,1.0,1.0

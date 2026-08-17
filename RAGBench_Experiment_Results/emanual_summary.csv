@@ -1,0 +1,11 @@
+experiment,domain,embed,chunk_size,table_aware,top_k,reranker,retrieval,generator,judge,samples,judge_fails,refusals,rmse_relevance,rmse_utilization,rmse_completeness,rmse_adherence,rmse_avg,auc_relevance,auc_utilization,auc_completeness,auc_adherence
+E1_Baseline,emanual,all-MiniLM-L6-v2,512,False,5,True,dense,llama-8b,gemma-12b,30,1,2,0.2468,0.2554,0.3621,0.4061,0.3176,0.664,0.6964,0.5868,0.5802
+E2_NoChunking,emanual,all-MiniLM-L6-v2,9999,False,5,True,dense,llama-8b,gemma-12b,30,2,0,0.2533,0.1672,0.327,0.4099,0.2894,0.628,0.5089,0.7014,0.4444
+E3_TopK3,emanual,all-MiniLM-L6-v2,9999,False,3,True,dense,llama-8b,gemma-12b,30,1,0,0.2093,0.1759,0.3476,0.3651,0.2745,0.716,0.6339,0.4792,0.4815
+E4_SupportPrompt,emanual,all-MiniLM-L6-v2,9999,False,3,True,dense,llama-8b,gemma-12b,30,1,0,0.2093,0.1759,0.3476,0.3651,0.2745,0.716,0.6339,0.4792,0.4815
+E5_NoReranker,emanual,all-MiniLM-L6-v2,9999,False,3,False,dense,llama-8b,gemma-12b,30,0,1,0.2183,0.1795,0.3769,0.4099,0.2961,0.612,0.4911,0.5069,0.4259
+E6_BGESmall,emanual,BAAI/bge-small-en-v1.5,9999,False,3,True,dense,llama-8b,gemma-12b,30,0,0,0.2181,0.1743,0.3571,0.3162,0.2664,0.636,0.6875,0.375,0.5
+E7_Hybrid,emanual,BAAI/bge-small-en-v1.5,9999,False,3,False,hybrid,llama-8b,gemma-12b,30,0,0,0.2072,0.165,0.3954,0.3162,0.2709,0.684,0.6071,0.4653,0.5
+E8_SentenceChunks,emanual,BAAI/bge-small-en-v1.5,200,False,5,True,dense,llama-8b,gemma-12b,30,0,0,0.3219,0.2455,0.336,0.3543,0.3144,0.656,0.6875,0.7465,0.6049
+E9_UpgradedLLMs,emanual,BAAI/bge-small-en-v1.5,9999,False,3,True,dense,gemma-12b,gemma-31b,30,1,0,0.2254,0.1551,0.3698,0.3849,0.2838,0.7,0.7589,0.5,0.463
+E10_BestCombo,emanual,BAAI/bge-small-en-v1.5,9999,False,3,True,dense,gemma-12b,gemma-31b,50,1,0,0.2358,0.167,0.3579,0.3352,0.274,0.6473,0.6386,0.6101,0.4565
